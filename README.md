@@ -1,5 +1,50 @@
 # Open Source Checklist
-How to use will be here
+
+# Quick start
+
+Open Source Project Checklist place in [CHECKLIST.md](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+
+If you don't know what is some point mean you can go by link and read the description and check the examples.
+
+To use checklist:
+- Copy checklist from README below:
+~~~
+[Main points](https://github.com/quillcraftsman/open-source-checklist#main-points)
+- [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
+- [ ] [Existing Analogues](https://github.com/quillcraftsman/open-source-checklist#existing-analogues)
+- [ ] [Good Project Name](https://github.com/quillcraftsman/open-source-checklist#good-project-name)
+- [ ] [Mission](https://github.com/quillcraftsman/open-source-checklist#mission)
+- [ ] [State What the Project Is Free](https://github.com/quillcraftsman/open-source-checklist#state-what-the-project-is-free)
+- [ ] [Features](https://github.com/quillcraftsman/open-source-checklist#features)
+- [ ] [Requirements](https://github.com/quillcraftsman/open-source-checklist#requirements)
+- [ ] [Development Status](https://github.com/quillcraftsman/open-source-checklist#development-status)
+- [ ] [Download Page](https://github.com/quillcraftsman/open-source-checklist#download-page)
+- [ ] [Version Control Access](https://github.com/quillcraftsman/open-source-checklist#version-control-access)
+- [ ] [Bug Tracker Access](https://github.com/quillcraftsman/open-source-checklist#bug-tracker-access)
+- [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
+- [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
+- [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
+- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
+- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
+- [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
+- [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
+- [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
+
+[Technical infrastructure](https://github.com/quillcraftsman/open-source-checklist#technical-infrastructure)
+- [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
+- [ ] [Mailing List](https://github.com/quillcraftsman/open-source-checklist#mailing-list)
+- [ ] [Version Control](https://github.com/quillcraftsman/open-source-checklist#version-control)
+- [ ] [Bug Tracking](https://github.com/quillcraftsman/open-source-checklist#bug-tracking)
+- [ ] [Real-Time Chat](https://github.com/quillcraftsman/open-source-checklist#real-time-chat)
+~~~
+
+
+- Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
+- Or you can use this repository as template (Because it contains another useful files)
+
+Be free to fork this repository, change the checklist or any another file. Just enjoy yourself.
+
+# Extended guide
 
 [Main points](#main-points)
 - [Open Source Project Checklist](#open-source-project-checklist)
@@ -34,10 +79,15 @@ How to use will be here
 ## Open Source Project Checklist
 
 ### Description:
-This checklist
+Like "To understand recursion, you must first understand recursion", the first point is **Checklist**.
+Good checklist allow you to create a successful open source project.
+You can use this project [checklist](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+Or explore the other solutions below in the [Existing Analogues](#existing-analogues)
 
-### Examples
-Some examples
+### Examples:
+- **Open Source Checklist (This project):** https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md
+- **FindSimilar:** https://github.com/findsimilar/find-similar/blob/main/CHECKLIST.md
+- **cfpb/open-source-project-template**: https://github.com/cfpb/open-source-project-template/blob/main/opensource-checklist.md
 
 ## Existing Analogues
 
