@@ -93,36 +93,51 @@ Or explore the other solutions below in the [Existing Analogues](#existing-analo
 
 ### Description:
 Research existing projects or software that offer similar functionality to your open source project.
-Understanding the landscape of existing analogues helps you identify unique features, gaps in the market, 
-and opportunities for innovation.
+Understanding the landscape of existing analogues helps you identify unique features and opportunities for innovation.
+Don't forget that in the open source world any person can fork any open project. But if the existing project 
+has actual features you can become a part of community instead of create your own project. 
 
 ### Examples:
-- **Libresource:** Explores existing similarity comparison libraries like scikit-learn, gensim, 
-and fuzzywuzzy to analyze their strengths, weaknesses, and user feedback.
-- **TensorFlow:** Investigates other machine learning frameworks such as PyTorch, 
-Keras, and Theano to assess their model compatibility, performance, and community support.
-- **Django:** Studies other web development frameworks like Flask, 
-Ruby on Rails, and Express.js to compare their ease of use, extensibility, and community engagement.
+- **Open Source Checklist (This project):** The point is to look on producing open source software from different view.
+- **[cfpb/open-source-project-template](https://github.com/cfpb/open-source-project-template/):** Very good checklist
+and descriptions
+- **[checklist on checkli.com](https://www.checkli.com/checklists/viewro/bedd0e466e6b4f8d22b0abcf6adb1007):**
+Web checklist available to download
+- **[post on redhat](https://www.redhat.com/en/resources/open-source-project-health-checklist):**
+Good open source projects description and requirements
 
 ## Good Project Name
 
 ### Description:
-A good project name is memorable, descriptive, and reflects the essence of your open source project. It should be unique, easy to spell, and related to the project's purpose or functionality. A clear and relevant name can attract users and contributors, making it easier for them to remember and search for your project.
+A good project name is memorable, descriptive, and reflects the essence of your open source project. 
+It should be unique, easy to spell, and related to the project's purpose or functionality. 
+A clear and relevant name can attract users and contributors, 
+making it easier for them to remember and search for your project.
 
 ### Examples:
-- **Libresource:** Combines "libre" (meaning "free" in French, reflecting open source freedom) and "resource," indicating a valuable open resource.
-- **TensorFlow:** Reflects the project's focus on mathematical operations using tensors, emphasizing the project's core functionality.
-- **Django:** Named after jazz guitarist Django Reinhardt, representing the project's focus on being fast, smooth, and expressive, like jazz music.
+- **Open Source Checklist (This project):** Not too unique but descriptive and easy to find
+- **FindSimilar:** Python library to find similar objects
+- **Sql Alchemy:** Popular ORM on python
 
 ## Mission
 
 ### Description:
-A clear mission statement defines the project's goals, objectives, and purpose. It communicates the project's vision, target audience, and the problems it aims to solve. A well-defined mission provides direction and aligns the community towards a common goal.
+A clear mission statement defines the project's goals, objectives, and purpose. 
+It communicates the project's vision, target audience, and the problems it aims to solve. 
+A well-defined mission provides direction and aligns the community towards a common goal.
 
 ### Examples:
-- **Libresource:** "To provide a versatile open source library for similarity comparisons across various data types, fostering collaboration and innovation among developers."
-- **TensorFlow:** "To enable efficient, flexible, and scalable machine learning through an open-source platform that empowers researchers and developers worldwide."
-- **Django:** "To make it easier to build web applications by providing reusable, maintainable, and secure components, emphasizing rapid development and clean design."
+- **Open Source Checklist:** "The "Open Source Checklist" project is dedicated to simplifying the journey of open source development
+for creators and contributors alike. Our mission is to provide a comprehensive, 
+user-friendly guide encompassing every essential aspect of open source projects."
+- **TensorFlow:** "To enable efficient, flexible, 
+and scalable machine learning through an open-source platform that empowers researchers and developers worldwide."
+- **Django:** "To make it easier to build web applications by providing reusable, maintainable, and secure components, 
+emphasizing rapid development and clean design."
+- **FindSimilar:** "The mission of the "FindSimilar" project is to provide a powerful and versatile open source 
+library that empowers developers to efficiently find similar objects and perform comparisons across a variety of data types. 
+Whether dealing with texts, images, audio, or more, 
+our project aims to simplify the process of identifying similarities and enhancing decision-making."
 
 ## State What the Project Is Free
 
