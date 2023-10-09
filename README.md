@@ -282,21 +282,14 @@ and participate in discussions related to the project.
 ## Developer Guidelines
 
 ### Description:
-Developer guidelines provide crucial information for new and existing contributors, outlining the project's development process, communication norms, and bug reporting procedures. It helps maintain a consistent and productive collaboration environment.
+Developer guidelines provide crucial information for new and existing contributors, 
+outlining the project's development process, communication norms, and bug reporting procedures. 
+It helps maintain a consistent and productive collaboration environment.
 
 ### Examples:
-- **Libresource:**
-  - **Forum Interaction:** For developer discussions, visit our [Developer Forum](https://community.libresource.info/c/developers) where you can interact with other developers, share ideas, and seek assistance.
-  - **Bug Reporting:** Follow our [Bug Reporting Guidelines](https://github.com/libresource/libresource/blob/main/CONTRIBUTING.md) on GitHub for detailed instructions on reporting bugs and submitting patches.
-  - **Development Approach:** Libresource follows a consensus-based approach, encouraging active discussion and decisions through community consensus.
-- **TensorFlow:**
-  - **Forum Interaction:** Developers collaborate on the [TensorFlow Dev Forum](https://community.tensorflow.org/c/developers) where they discuss development-related topics, seek help, and engage with the community.
-  - **Bug Reporting:** Refer to TensorFlow's [Bug Reporting Guide](https://github.com/tensorflow/tensorflow/blob/main/CONTRIBUTING.md) for step-by-step instructions on reporting bugs and proposing changes.
-  - **Development Approach:** TensorFlow operates under a consensus-seeking model, encouraging input from multiple contributors before making major decisions.
-- **Django:**
-  - **Forum Interaction:** Developers communicate on the [Django Developers Google Group](https://groups.google.com/g/django-developers) for technical discussions, collaboration, and decision-making.
-  - **Bug Reporting:** Django's [Bug Reporting Guide](https://docs.djangoproject.com/en/stable/internals/contributing/bugs-and-features/) provides information on reporting bugs, submitting patches, and getting involved in the development process.
-  - **Development Approach:** Django follows a "benevolent dictatorship" model, with a core team making final decisions based on community input and meritocracy.
+- **Open Source Checklist (This Project):** Developer Guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)
+- **FindSimilar:** Developer Guidelines in [DEVELOPER_GUIDELINES.md](https://github.com/findsimilar/find-similar/blob/main/DEVELOPER_GUIDELINES.md)
+- **Django:** [Special page](https://docs.djangoproject.com/en/dev/internals/contributing/) on the official site
 
 ## Documentation
 
