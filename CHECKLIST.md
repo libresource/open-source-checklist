@@ -1,8 +1,8 @@
 Main points
-- [x] Open Source Project Checklist
-- [ ] Existing Analogues
-- [ ] [Good Project Name]([repo]#good-project-name) 
-- [ ] [Mission]([repo]) 
+- [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
+- [ ] [Existing Analogues](https://github.com/quillcraftsman/open-source-checklist#existing-analogues)
+- [ ] [Good Project Name](https://github.com/quillcraftsman/open-source-checklist#good-project-name)
+- [ ] [Mission](https://github.com/quillcraftsman/open-source-checklist#mission)
 - [ ] State What the Project Is Free
 - [ ] Features
 - [ ] Requirements
