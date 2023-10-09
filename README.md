@@ -294,21 +294,21 @@ It helps maintain a consistent and productive collaboration environment.
 ## Documentation
 
 ### Description:
-Comprehensive documentation is essential for users and developers to understand how to install, configure, and use your open source project. Well-structured documentation enhances user experience, encourages contributions, and ensures a consistent understanding of the project's functionality.
+Comprehensive documentation is essential for users and developers to understand how to install, configure, 
+and use your open source project. Well-structured documentation enhances user experience, encourages contributions, 
+and ensures a consistent understanding of the project's functionality.
 
 ### Examples:
-- **Libresource:**
-  - **User Guide:** Explore our [User Guide](https://libresource.info/docs/user-guide) for detailed instructions on installation, usage, and configuration.
-  - **API Reference:** Check out our [API Documentation](https://libresource.info/docs/api) for in-depth information about the project's interfaces and methods.
-  - **Contributor Guide:** Interested in contributing? Read our [Contributor's Guide](https://libresource.info/docs/contributor-guide) to learn how you can get involved in the development process.
-- **TensorFlow:**
-  - **Installation Guide:** The [Installation Guide](https://www.tensorflow.org/install) provides step-by-step instructions for installing TensorFlow on various platforms and environments.
-  - **Tutorials:** TensorFlow's [Tutorials](https://www.tensorflow.org/tutorials) offer hands-on examples and guides for building machine learning models using TensorFlow.
-  - **Developer Documentation:** Developers can explore the [Developer Documentation](https://www.tensorflow.org/guide) for in-depth technical information, best practices, and API reference.
+- **Open Source Checklist (This Project):**
+  - **On official site:** will be later
+  - **Quickstart:** https://github.com/quillcraftsman/open-source-checklist#quick-start
+  - **Extended Guide:** https://github.com/quillcraftsman/open-source-checklist#extended-guide
+- **FindSimilar:**
+  - **Installation:** https://github.com/findsimilar/find-similar#installation
+  - **Usage:** https://github.com/findsimilar/find-similar#usage-example
 - **Django:**
   - **Getting Started:** Django's [Getting Started Guide](https://www.djangoproject.com/start/) offers a beginner-friendly introduction to setting up a Django project.
   - **Official Documentation:** The [Official Documentation](https://docs.djangoproject.com/en/stable/) provides detailed information on Django's features, components, and advanced usage scenarios.
-  - **Contributor Documentation:** Interested in contributing? Django's [Contributor Documentation](https://docs.djangoproject.com/en/stable/internals/contributing/) outlines the contribution process, coding standards, and development workflow.
 
 ## FAQ
 
@@ -396,8 +396,6 @@ The license outlines the terms under which your open source project is distribut
 - **TensorFlow:** TensorFlow is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), providing users with extensive permissions to use, modify, and distribute the software, including patent grants and warranties.
 - **Django:** Django is open-source software distributed under the [BSD License](https://opensource.org/licenses/BSD-3-Clause), allowing users to use, modify, and distribute the software for any purpose with proper attribution.
 
-Please note that these are just examples. It's crucial to consult legal experts or licensing professionals to choose the right license for your specific project and community needs.
-
 # Technical infrastructure
 
 ## Website
@@ -419,8 +417,6 @@ A project website serves as the primary online presence for your open source pro
 - **TensorFlow:** Explore the [TensorFlow Website](https://www.tensorflow.org) with its comprehensive documentation, download links, community forums, and the latest news on TensorFlow advancements.
 - **Django:** The [Django Website](https://www.djangoproject.com) provides an intuitive layout featuring project information, tutorials, downloads, community forums, and developer resources.
 
-Building a professional and user-friendly website is essential for attracting users, contributors, and collaborators to your open source project. If you have more points or need further assistance, feel free to ask!
-
 ## Mailing List
 
 ### Description:
@@ -436,8 +432,6 @@ A mailing list provides a platform for asynchronous communication among project 
 - **Libresource:** Libresource's mailing list, hosted on [Google Groups](https://groups.google.com/g/libresource), serves as a hub for developer discussions, announcements, and collaboration.
 - **TensorFlow:** The [TensorFlow Mailing List](https://groups.google.com/g/tensorflow) fosters discussions among developers, researchers, and users, facilitating knowledge exchange and issue resolution.
 - **Django:** Django's [Developer Mailing List](https://groups.google.com/g/django-developers) supports technical discussions, coding help, and collaboration, enhancing the Django community's cohesion.
-
-Setting up a mailing list provides an inclusive space for project-related discussions, enhancing collaboration and knowledge sharing among the community. If you have more points or need further assistance, feel free to ask!
 
 ## Version Control
 
@@ -456,8 +450,6 @@ Version control systems enable collaborative software development by tracking ch
 - **TensorFlow:** TensorFlow's codebase resides on [GitHub](https://github.com/tensorflow/tensorflow), enabling developers worldwide to collaborate, propose changes, and merge contributions effectively.
 - **Django:** Django's repository on [GitHub](https://github.com/django/django) is a collaborative space where contributors work on features, bug fixes, and improvements, following a structured review and merge process.
 
-Utilizing version control systems ensures a streamlined and organized development process, enabling contributors to collaborate efficiently and maintain code quality. If you have more points or need further assistance, feel free to ask!
-
 ## Bug Tracking
 
 ### Description:
@@ -473,8 +465,6 @@ Bug tracking systems are essential for managing and resolving issues reported by
 - **Libresource:** Libresource's bug tracking is managed on [GitHub Issues](https://github.com/libresource/libresource/issues), where users can report bugs, suggest enhancements, and engage in discussions about the project's development.
 - **TensorFlow:** TensorFlow uses [GitHub Issues](https://github.com/tensorflow/tensorflow/issues) for tracking bugs and feature requests, allowing contributors and users to collaborate on issue resolution.
 - **Django:** Django's bug tracking system on [GitHub Issues](https://github.com/django/django/issues) enables the community to report bugs, propose changes, and discuss potential improvements.
-
-Effective bug tracking ensures that reported issues are systematically addressed, enhancing user satisfaction and the overall quality of the project. If you have more points or need further assistance, feel free to ask!
 
 ## Real-Time Chat
 
@@ -492,5 +482,3 @@ Real-time chat platforms offer instant communication channels, fostering rapid c
 - **Libresource:** Libresource's real-time chat takes place on [Discord](https://discord.gg/libresource), offering multiple channels for different topics, including technical support, announcements, and general discussions.
 - **TensorFlow:** TensorFlow's community interacts on the [TensorFlow Slack](https://www.tensorflow.org/community) channel, where developers and users engage in real-time discussions, collaborate on projects, and share knowledge.
 - **Django:** Django's real-time communication happens on the `#django` channel on the Freenode IRC network, providing a platform for developers to discuss coding issues, seek assistance, and share experiences.
-
-Real-time chat platforms enhance community engagement, allowing users and developers to interact swiftly, troubleshoot issues, and share valuable insights. If you have more points or need further assistance, feel free to ask!
