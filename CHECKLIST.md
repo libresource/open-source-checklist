@@ -13,9 +13,9 @@
 - [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
 - [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
 - [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
-- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
-- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
 - [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
+- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
+- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 
