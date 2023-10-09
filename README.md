@@ -370,40 +370,21 @@ Providing clear links to documentation sources simplifies the learning process a
 An FAQ section addresses common questions users might have about your open source project. While it might be empty at the project's start, it's a valuable addition as your project gains users. Anticipate questions users might ask and provide concise, helpful answers to enhance user experience.
 
 ### Examples:
-- **Libresource:**
-  - **Q: What types of data can Libresource handle?**
-    - A: Libresource supports various data types, including text, images, and numerical data, making it versatile for multiple applications.
-  - **Q: Is Libresource compatible with other machine learning libraries?**
-    - A: Yes, Libresource integrates seamlessly with popular machine learning libraries like scikit-learn and TensorFlow.
-- **TensorFlow:**
-  - **Q: Can TensorFlow models be deployed on mobile devices?**
-    - A: Yes, TensorFlow provides tools like TensorFlow Lite for deploying models on mobile and edge devices.
-  - **Q: Is TensorFlow suitable for large-scale production deployments?**
-    - A: Absolutely, TensorFlow is designed for scalability and can handle large-scale production environments efficiently.
-- **Django:**
-  - **Q: Does Django support user authentication and authorization?**
-    - A: Yes, Django offers a robust authentication system with built-in support for user registration, login, and permissions management.
-  - **Q: Is Django suitable for building real-time applications?**
-    - A: While Django is primarily designed for request-response-based web applications, it can be extended with technologies like Django Channels for real-time features.
+- **Open Source Checklist (This Project):** will be later on the official website
+- **Django:** https://docs.djangoproject.com/en/4.2/faq/
 
 ## Examples Output and Screenshots
 
 ### Description:
-Providing real-world examples, output samples, and screenshots demonstrates your project's capabilities and helps users visualize its usage. Clear examples enhance user understanding and inspire confidence in the project's functionality.
+Providing real-world examples, output samples, and screenshots demonstrates your project's capabilities and helps users visualize its usage. 
+Clear examples enhance user understanding and inspire confidence in the project's functionality.
 
 ### Examples:
-- **Libresource:**
-  - **Text Comparison Output:** View sample output demonstrating how Libresource compares text inputs, highlighting similarities and differences.
-  - **API Usage Example:** Explore a step-by-step guide with code snippets on how to utilize Libresource's API for text similarity comparisons.
-  - **User Interface Screenshots:** Access screenshots showcasing Libresource's user interface, illustrating its user-friendly design and features.
-- **TensorFlow:**
-  - **Model Training Output:** Provide snippets of model training output, demonstrating how TensorFlow processes data and optimizes machine learning models.
-  - **Inference Examples:** Include code examples showing how to use pre-trained models for tasks like image recognition or natural language processing.
-  - **TensorBoard Visualization:** Showcase screenshots from TensorBoard, visualizing model training, evaluation metrics, and other relevant data.
-- **Django:**
-  - **Web Application Screenshots:** Display screenshots of Django web applications built using the framework, highlighting different templates, views, and interactive elements.
-  - **Admin Interface Examples:** Include examples of the Django admin interface, demonstrating how it simplifies content management and site administration.
-  - **Customization Demonstrations:** Showcase code snippets and screenshots illustrating how developers can customize Django's default behaviors, such as
+- **Open Source Checklist (This Project):**
+  - **Screenshot:** [Checklist Example](checklistexample.png)
+- **FindSimilar:**
+  - **Demo project:** http://demo.findsimlar.org
+  - **Demo API:** http://api.findsimilar.org
 
 ## License
 
