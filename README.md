@@ -228,12 +228,17 @@ Installation instructions for different operating systems are provided.
 ## Version Control Access
 
 ### Description:
-Providing version control access allows developers to contribute to your project, track changes, and collaborate effectively. It is essential for maintaining transparency and enabling a community-driven development environment.
+Providing version control access allows developers to contribute to your project, track changes, and collaborate effectively. 
+It is essential for maintaining transparency and enabling a community-driven development environment.
 
 ### Examples:
-- **Libresource:** The Libresource project is hosted on GitHub. You can access the source code, contribute, and track changes by visiting our [GitHub Repository](https://github.com/libresource/libresource).
-- **TensorFlow:** TensorFlow's source code is available on GitHub. Developers can contribute and access the latest codebase from the [GitHub Repository](https://github.com/tensorflow/tensorflow).
-- **Django:** Django's version control is managed on GitHub. The source code and contribution guidelines can be found at the [GitHub Repository](https://github.com/django/django).
+- **Open Source Checklist (This project):** This project is hosted on GitHub. 
+You can access the source code, contribute, 
+and track changes by visiting our [GitHub Repository](https://github.com/quillcraftsman/open-source-checklist).
+- **FindSimilar:** FindSimilar's source code is available on GitHub. 
+Developers can contribute and access the latest codebase from the [GitHub Repository](https://github.com/findsimilar/find-similar).
+- **Django:** Django's version control is managed on GitHub. 
+The source code and contribution guidelines can be found at the [GitHub Repository](https://github.com/django/django).
 
 ## Bug Tracker Access
 
