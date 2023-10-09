@@ -201,11 +201,14 @@ This information helps users ensure compatibility, and developers understand the
 ## Development Status
 
 ### Description:
-Describing the development status of your project provides users and potential contributors with insights into the project's maturity and stability. It helps users understand if the software is ready for production use or if it's still in early development stages.
+Describing the development status of your project provides users and potential contributors with insights into the project's maturity and stability.
+It helps users understand if the software is ready for production use or if it's still in early development stages.
 
 ### Examples:
-- **Libresource:** Alpha - The project is in early development. Some features may be incomplete, and stability is not guaranteed.
-- **TensorFlow:** Stable - The project is mature, well-tested, and suitable for production use.
+- **Open Source Checklist (This project):** Alpha - The project is in early development. Some features may be incomplete, 
+and stability is not guaranteed.
+- **FindSimilar:** Beta - Software is feature complete. External testing, fixing bugs and performance problems. 
+Usability testing.
 - **Django:** Production/Stable - The project is mature, feature-complete, and widely used in production environments.
 
 ## Download Page
