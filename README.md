@@ -182,18 +182,16 @@ It helps manage expectations and showcases the strengths of your open source sof
 ## Requirements
 
 ### Description:
-Clearly outlining the system requirements and dependencies needed to run your project is essential for users and developers. This information helps users ensure compatibility, and developers understand the environment needed for contribution and development.
+Clearly outlining the system requirements and dependencies needed to run your project is essential for users and developers. 
+This information helps users ensure compatibility, and developers understand the environment needed for contribution and development.
 
 ### Examples:
-- **Libresource:**
-  - Python 3.6 or higher.
-  - Additional libraries: NLTK, scikit-learn.
-  - Operating Systems: Windows, macOS, Linux.
+- **Open Source Checklist (This project):**
+  - No requirements yet
 
-- **TensorFlow:**
-  - Python 3.5 or higher.
-  - TensorFlow-compatible CPU or GPU.
-  - Supported platforms: Windows, macOS, Linux.
+- **FindSimilar:**
+  - python >= 3.9
+  - nltk, pymorphy2
 
 - **Django:**
   - Python 3.6 or higher.
