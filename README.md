@@ -261,18 +261,23 @@ Users and developers can report bugs, propose changes, and discuss issues relate
 ## Communication Channels
 
 ### Description:
-Setting up communication channels fosters interaction, collaboration, and community engagement. It provides users and developers with platforms to ask questions, share ideas, and participate in discussions related to the project.
+Setting up communication channels fosters interaction, collaboration, and community engagement. 
+It provides users and developers with platforms to ask questions, share ideas, 
+and participate in discussions related to the project.
 
 ### Examples:
-- **Libresource:**
-  - **Mailing List:** Join our [mailing list](https://groups.google.com/g/libresource) for in-depth discussions, announcements, and community updates.
-  - **Chat:** We have an active community chat on [Discord](https://discord.gg/libresource). Join us to chat with developers and fellow users in real-time.
-- **TensorFlow:**
-  - **Forum:** Participate in discussions on the [TensorFlow Forum](https://discuss.tensorflow.org/) where you can ask questions, share knowledge, and collaborate with other TensorFlow users.
-  - **Slack:** The TensorFlow community has a dedicated Slack channel for real-time discussions. Join by requesting an invitation on the [community website](https://www.tensorflow.org/community).
+- **Open Source Checklist (This Project):**
+  - **Mailing List:** Only in plans for now
+  - **Chat:** Only in plans for now
+  - **GitHub Discussions:** Available on [GitHub](https://github.com/quillcraftsman/open-source-checklist/discussions)
+  - **IRC:** Only in plans for now
+- **FindSimilar:**
+  - **GitHub Discussions:** Available on [GitHub](https://github.com/findsimilar/find-similar/discussions)
 - **Django:**
   - **IRC:** Django developers can be found on the `#django` channel on the Freenode IRC network for real-time chat and support.
-  - **Reddit:** Engage with the Django community on the [Django subreddit](https://www.reddit.com/r/django/) for discussions, news, and project-related content.
+  - **Reddit:** Engage with the Django community on the [Django subreddit](https://www.reddit.com/r/django/) 
+  for discussions, news, and project-related content.
+  - **Others:** Django has mailing list, Discord chat, ...
 
 ## Developer Guidelines
 
