@@ -1,5 +1,50 @@
 # Open Source Checklist
-How to use will be here
+
+# Quick start
+
+Open Source Project Checklist place in [CHECKLIST.md](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+
+If you don't know what is some point mean you can go by link and read the description and check the examples.
+
+To use checklist:
+- Copy checklist from README below:
+~~~
+[Main points](https://github.com/quillcraftsman/open-source-checklist#main-points)
+- [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
+- [ ] [Existing Analogues](https://github.com/quillcraftsman/open-source-checklist#existing-analogues)
+- [ ] [Good Project Name](https://github.com/quillcraftsman/open-source-checklist#good-project-name)
+- [ ] [Mission](https://github.com/quillcraftsman/open-source-checklist#mission)
+- [ ] [State What the Project Is Free](https://github.com/quillcraftsman/open-source-checklist#state-what-the-project-is-free)
+- [ ] [Features](https://github.com/quillcraftsman/open-source-checklist#features)
+- [ ] [Requirements](https://github.com/quillcraftsman/open-source-checklist#requirements)
+- [ ] [Development Status](https://github.com/quillcraftsman/open-source-checklist#development-status)
+- [ ] [Download Page](https://github.com/quillcraftsman/open-source-checklist#download-page)
+- [ ] [Version Control Access](https://github.com/quillcraftsman/open-source-checklist#version-control-access)
+- [ ] [Bug Tracker Access](https://github.com/quillcraftsman/open-source-checklist#bug-tracker-access)
+- [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
+- [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
+- [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
+- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
+- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
+- [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
+- [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
+- [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
+
+[Technical infrastructure](https://github.com/quillcraftsman/open-source-checklist#technical-infrastructure)
+- [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
+- [ ] [Mailing List](https://github.com/quillcraftsman/open-source-checklist#mailing-list)
+- [ ] [Version Control](https://github.com/quillcraftsman/open-source-checklist#version-control)
+- [ ] [Bug Tracking](https://github.com/quillcraftsman/open-source-checklist#bug-tracking)
+- [ ] [Real-Time Chat](https://github.com/quillcraftsman/open-source-checklist#real-time-chat)
+~~~
+
+
+- Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
+- Or you can use this repository as template (Because it contains another useful files)
+
+Be free to fork this repository, change the checklist or any another file. Just enjoy yourself.
+
+# Extended guide
 
 [Main points](#main-points)
 - [Open Source Project Checklist](#open-source-project-checklist)
@@ -34,92 +79,119 @@ How to use will be here
 ## Open Source Project Checklist
 
 ### Description:
-This checklist
+Like "To understand recursion, you must first understand recursion", the first point is **Checklist**.
+Good checklist allow you to create a successful open source project.
+You can use this project [checklist](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+Or explore the other solutions below in the [Existing Analogues](#existing-analogues)
 
-### Examples
-Some examples
+### Examples:
+- **Open Source Checklist (This project):** https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md
+- **FindSimilar:** https://github.com/findsimilar/find-similar/blob/main/CHECKLIST.md
+- **cfpb/open-source-project-template**: https://github.com/cfpb/open-source-project-template/blob/main/opensource-checklist.md
 
 ## Existing Analogues
 
 ### Description:
 Research existing projects or software that offer similar functionality to your open source project.
-Understanding the landscape of existing analogues helps you identify unique features, gaps in the market, 
-and opportunities for innovation.
+Understanding the landscape of existing analogues helps you identify unique features and opportunities for innovation.
+Don't forget that in the open source world any person can fork any open project. But if the existing project 
+has actual features you can become a part of community instead of create your own project. 
 
 ### Examples:
-- **Libresource:** Explores existing similarity comparison libraries like scikit-learn, gensim, 
-and fuzzywuzzy to analyze their strengths, weaknesses, and user feedback.
-- **TensorFlow:** Investigates other machine learning frameworks such as PyTorch, 
-Keras, and Theano to assess their model compatibility, performance, and community support.
-- **Django:** Studies other web development frameworks like Flask, 
-Ruby on Rails, and Express.js to compare their ease of use, extensibility, and community engagement.
+- **Open Source Checklist (This project):** The point is to look on producing open source software from different view.
+- **[cfpb/open-source-project-template](https://github.com/cfpb/open-source-project-template/):** Very good checklist
+and descriptions
+- **[checklist on checkli.com](https://www.checkli.com/checklists/viewro/bedd0e466e6b4f8d22b0abcf6adb1007):**
+Web checklist available to download
+- **[post on redhat](https://www.redhat.com/en/resources/open-source-project-health-checklist):**
+Good open source projects description and requirements
 
 ## Good Project Name
 
 ### Description:
-A good project name is memorable, descriptive, and reflects the essence of your open source project. It should be unique, easy to spell, and related to the project's purpose or functionality. A clear and relevant name can attract users and contributors, making it easier for them to remember and search for your project.
+A good project name is memorable, descriptive, and reflects the essence of your open source project. 
+It should be unique, easy to spell, and related to the project's purpose or functionality. 
+A clear and relevant name can attract users and contributors, 
+making it easier for them to remember and search for your project.
 
 ### Examples:
-- **Libresource:** Combines "libre" (meaning "free" in French, reflecting open source freedom) and "resource," indicating a valuable open resource.
-- **TensorFlow:** Reflects the project's focus on mathematical operations using tensors, emphasizing the project's core functionality.
-- **Django:** Named after jazz guitarist Django Reinhardt, representing the project's focus on being fast, smooth, and expressive, like jazz music.
+- **Open Source Checklist (This project):** Not too unique but descriptive and easy to find
+- **FindSimilar:** Python library to find similar objects
+- **Sql Alchemy:** Popular ORM on python
 
 ## Mission
 
 ### Description:
-A clear mission statement defines the project's goals, objectives, and purpose. It communicates the project's vision, target audience, and the problems it aims to solve. A well-defined mission provides direction and aligns the community towards a common goal.
+A clear mission statement defines the project's goals, objectives, and purpose. 
+It communicates the project's vision, target audience, and the problems it aims to solve. 
+A well-defined mission provides direction and aligns the community towards a common goal.
 
 ### Examples:
-- **Libresource:** "To provide a versatile open source library for similarity comparisons across various data types, fostering collaboration and innovation among developers."
-- **TensorFlow:** "To enable efficient, flexible, and scalable machine learning through an open-source platform that empowers researchers and developers worldwide."
-- **Django:** "To make it easier to build web applications by providing reusable, maintainable, and secure components, emphasizing rapid development and clean design."
+- **Open Source Checklist (This project):** "The "Open Source Checklist" project is dedicated to simplifying the journey of open source development
+for creators and contributors alike. Our mission is to provide a comprehensive, 
+user-friendly guide encompassing every essential aspect of open source projects."
+- **TensorFlow:** "To enable efficient, flexible, 
+and scalable machine learning through an open-source platform that empowers researchers and developers worldwide."
+- **Django:** "To make it easier to build web applications by providing reusable, maintainable, and secure components, 
+emphasizing rapid development and clean design."
+- **FindSimilar:** "The mission of the "FindSimilar" project is to provide a powerful and versatile open source 
+library that empowers developers to efficiently find similar objects and perform comparisons across a variety of data types. 
+Whether dealing with texts, images, audio, or more, 
+our project aims to simplify the process of identifying similarities and enhancing decision-making."
 
 ## State What the Project Is Free
 
 ### Description:
-Clearly stating that the project is free to use and open for contribution encourages a collaborative atmosphere. It welcomes users to utilize the project without any cost and invites developers to contribute code, report issues, or suggest enhancements.
+Clearly stating that the project is free to use and open for contribution encourages a collaborative atmosphere.
+It welcomes users to utilize the project without any cost and invites developers to contribute code, report issues, or suggest enhancements.
 
 ### Examples:
-- **Libresource:** This project is open and free for everyone to use. Contributions from developers and users are highly encouraged and valued. Feel free to fork the repository, submit pull requests, or report issues.
-- **TensorFlow:** TensorFlow is an open source project available to the public for free. We welcome contributions from the community. Check out our contributing guidelines to get involved.
-- **Django:** Django is free to use for any purpose. We appreciate contributions in any form: code, documentation, bug reports, feature requests, or financial support.
+- **Open Source Checklist (This project):** This project is open and free for everyone to use. 
+Contributions from developers and users are highly encouraged and valued. Feel free to fork the repository, submit pull requests, or report issues.
+- **TensorFlow:** TensorFlow is an open source project available to the public for free. 
+We welcome contributions from the community. Check out our contributing guidelines to get involved.
+- **Django:** Django is free to use for any purpose. 
+We appreciate contributions in any form: code, documentation, bug reports, feature requests, or financial support.
+- **FindSimilar:** "FindSimilar" is an open source project, fostering collaboration and innovation. 
+We welcome contributors from all backgrounds to join us in shaping the future of similarity comparisons across various data types. 
 
 ## Features
 
 ### Description:
-Listing the current features of your project provides users and potential contributors with a clear understanding of what the project can do. It helps manage expectations and showcases the strengths of your open source software.
+Listing the current features of your project provides users and potential contributors with a clear understanding of what the project can do. 
+It helps manage expectations and showcases the strengths of your open source software.
 
 ### Examples:
-- **Libresource:**
-  - Text similarity comparison across multiple languages.
-  - Extensive library support for various data types.
-  - User-friendly API for easy integration into existing projects.
+- **Open Source Checklist (This project):**
+  - Checklist with **md** structure
+  - Full description about each point in checklist
+  - Several examples to each point in checklist
   
-- **TensorFlow:**
-  - Deep learning models for image recognition, natural language processing, and more.
-  - Scalability and flexibility in model development.
-  - TensorFlow Serving for deploying machine learning models in production environments.
+- **FindSimilar:**
+  - Find similar text sentences
+  - Compare one text sentence with many
+  - Sort similar texts by match percentage
+  - Research laboratory with scripts to improve main algorithms
 
 - **Django:**
   - Object-relational mapping for database interactions.
   - Built-in administrative interface for managing site content.
   - Extensive template system for flexible and dynamic web page rendering.
+  - ...
 
 ## Requirements
 
 ### Description:
-Clearly outlining the system requirements and dependencies needed to run your project is essential for users and developers. This information helps users ensure compatibility, and developers understand the environment needed for contribution and development.
+Clearly outlining the system requirements and dependencies needed to run your project is essential for users and developers. 
+This information helps users ensure compatibility, and developers understand the environment needed for contribution and development.
 
 ### Examples:
-- **Libresource:**
-  - Python 3.6 or higher.
-  - Additional libraries: NLTK, scikit-learn.
-  - Operating Systems: Windows, macOS, Linux.
+- **Open Source Checklist (This project):**
+  - No requirements yet
 
-- **TensorFlow:**
-  - Python 3.5 or higher.
-  - TensorFlow-compatible CPU or GPU.
-  - Supported platforms: Windows, macOS, Linux.
+- **FindSimilar:**
+  - python >= 3.9
+  - nltk, pymorphy2
 
 - **Django:**
   - Python 3.6 or higher.
@@ -129,11 +201,14 @@ Clearly outlining the system requirements and dependencies needed to run your pr
 ## Development Status
 
 ### Description:
-Describing the development status of your project provides users and potential contributors with insights into the project's maturity and stability. It helps users understand if the software is ready for production use or if it's still in early development stages.
+Describing the development status of your project provides users and potential contributors with insights into the project's maturity and stability.
+It helps users understand if the software is ready for production use or if it's still in early development stages.
 
 ### Examples:
-- **Libresource:** Alpha - The project is in early development. Some features may be incomplete, and stability is not guaranteed.
-- **TensorFlow:** Stable - The project is mature, well-tested, and suitable for production use.
+- **Open Source Checklist (This project):** Alpha - The project is in early development. Some features may be incomplete, 
+and stability is not guaranteed.
+- **FindSimilar:** Beta - Software is feature complete. External testing, fixing bugs and performance problems. 
+Usability testing.
 - **Django:** Production/Stable - The project is mature, feature-complete, and widely used in production environments.
 
 ## Download Page
