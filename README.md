@@ -389,12 +389,15 @@ Clear examples enhance user understanding and inspire confidence in the project'
 ## License
 
 ### Description:
-The license outlines the terms under which your open source project is distributed and used. Choosing an appropriate license is essential for legal and ethical reasons. It clarifies what others can and cannot do with your software, protecting both users and contributors.
+The license outlines the terms under which your open source project is distributed and used. 
+Choosing an appropriate license is essential for legal and ethical reasons. 
+It clarifies what others can and cannot do with your software, protecting both users and contributors.
 
 ### Examples:
-- **Libresource:** Libresource is licensed under the [MIT License](https://opensource.org/licenses/MIT), allowing users to use, modify, and distribute the software for both commercial and non-commercial purposes while preserving the copyright notice and disclaimer.
-- **TensorFlow:** TensorFlow is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), providing users with extensive permissions to use, modify, and distribute the software, including patent grants and warranties.
-- **Django:** Django is open-source software distributed under the [BSD License](https://opensource.org/licenses/BSD-3-Clause), allowing users to use, modify, and distribute the software for any purpose with proper attribution.
+- **Open Source Checklist (This Project):** is licensed under the [GPL-3.0 license](LICENSE)
+- **FindSimilar:** is licensed under the [MIT license](https://github.com/findsimilar/find-similar/blob/main/LICENSE)
+- **Django:** is open-source software distributed under the [BSD License](https://opensource.org/licenses/BSD-3-Clause), 
+allowing users to use, modify, and distribute the software for any purpose with proper attribution.
 
 # Technical infrastructure
 
