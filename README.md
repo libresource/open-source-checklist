@@ -24,9 +24,9 @@ To use checklist:
 - [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
 - [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
 - [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
-- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
-- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
 - [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
+- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
+- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 
@@ -61,9 +61,9 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [Communication Channels](#communication-channels)
 - [Developer Guidelines](#developer-guidelines)
 - [Documentation](#documentation)
-- [FAQ](#faq)
-- [Availability of Documentation](#availability-of-documentation)
 - [Developer Documentation](#developer-documentation)
+- [Availability of Documentation](#availability-of-documentation)
+- [FAQ](#faq)
 - [Examples Output and Screenshots](#examples-output-and-screenshots)
 - [License](#license)
 
@@ -310,6 +310,50 @@ and ensures a consistent understanding of the project's functionality.
   - **Getting Started:** Django's [Getting Started Guide](https://www.djangoproject.com/start/) offers a beginner-friendly introduction to setting up a Django project.
   - **Official Documentation:** The [Official Documentation](https://docs.djangoproject.com/en/stable/) provides detailed information on Django's features, components, and advanced usage scenarios.
 
+## Developer Documentation
+
+### Description:
+Developer documentation provides technical details, guidelines, and best practices for developers contributing to your open source project. 
+It empowers new and experienced developers to understand the codebase, follow coding standards, and contribute effectively.
+
+### Examples:
+- **Open Source Checklist (This project):**
+  - **Nothing to run yet:** There is no to run in this project. Maybe we will have something later. 
+- **FindSimilar:**
+  - **In special md file:** [DEVELOPER_DOCUMENTATION.md](https://github.com/findsimilar/find-similar/blob/main/DEVELOPER_DOCUMENTATION.md)
+  - **In main readme file:** [Development section](https://github.com/findsimilar/find-similar/tree/main#development)
+- **Django:**
+  - **Codebase Architecture:** Django's [Developer Overview](https://docs.djangoproject.com/en/stable/internals/) 
+  explains the project's architecture, including key components like models, views, and templates.
+  - **Contributor's Guide:** The [Contributor's Guide](https://docs.djangoproject.com/en/stable/internals/contributing/) 
+  outlines the steps for contributing code, reporting bugs, and engaging with the Django community.
+  - **Codebase Conventions:** Django follows specific coding conventions detailed in the 
+  [Coding Style](https://docs.djangoproject.com/en/stable/internals/contributing/writing-code/coding-style/) guide, 
+  ensuring consistency across the codebase.
+
+## Availability of Documentation
+
+### Description:
+Ensuring that documentation is easily accessible is crucial for user onboarding and developer contributions. Providing clear links to documentation sources simplifies the learning process and encourages users to explore and understand your project.
+
+### Examples:
+- **Libresource:**
+  - **Documentation Hub:** Find all documentation resources on our [Documentation Hub](https://libresource.info/docs), 
+  including user guides, API references, and contributor guidelines.
+  - **In-App Help:** Access context-sensitive help directly from the Libresource application, 
+  guiding users on specific features and functionalities.
+- **TensorFlow:**
+  - **Official Documentation:** All official TensorFlow documentation is centralized 
+  on the [TensorFlow Documentation](https://www.tensorflow.org/guide) page, 
+  offering comprehensive guides and tutorials for users and developers.
+  - **Interactive Learning:** TensorFlow provides an [Interactive Learning](https://www.tensorflow.org/tutorials) section, 
+  allowing users to learn through hands-on coding exercises.
+- **Django:**
+  - **Documentation Landing Page:** The [Django Documentation](https://docs.djangoproject.com/en/stable/) 
+  landing page serves as the central hub for all Django-related documentation, providing users with a clear starting point.
+  - **API Reference:** Django's [API Reference](https://docs.djangoproject.com/en/stable/ref/) 
+  offers detailed information about the framework's classes, methods, and modules for developers.
+
 ## FAQ
 
 ### Description:
@@ -331,41 +375,6 @@ An FAQ section addresses common questions users might have about your open sourc
     - A: Yes, Django offers a robust authentication system with built-in support for user registration, login, and permissions management.
   - **Q: Is Django suitable for building real-time applications?**
     - A: While Django is primarily designed for request-response-based web applications, it can be extended with technologies like Django Channels for real-time features.
-
-## Availability of Documentation
-
-### Description:
-Ensuring that documentation is easily accessible is crucial for user onboarding and developer contributions. Providing clear links to documentation sources simplifies the learning process and encourages users to explore and understand your project.
-
-### Examples:
-- **Libresource:**
-  - **Documentation Hub:** Find all documentation resources on our [Documentation Hub](https://libresource.info/docs), including user guides, API references, and contributor guidelines.
-  - **In-App Help:** Access context-sensitive help directly from the Libresource application, guiding users on specific features and functionalities.
-- **TensorFlow:**
-  - **Official Documentation:** All official TensorFlow documentation is centralized on the [TensorFlow Documentation](https://www.tensorflow.org/guide) page, offering comprehensive guides and tutorials for users and developers.
-  - **Interactive Learning:** TensorFlow provides an [Interactive Learning](https://www.tensorflow.org/tutorials) section, allowing users to learn through hands-on coding exercises.
-- **Django:**
-  - **Documentation Landing Page:** The [Django Documentation](https://docs.djangoproject.com/en/stable/) landing page serves as the central hub for all Django-related documentation, providing users with a clear starting point.
-  - **API Reference:** Django's [API Reference](https://docs.djangoproject.com/en/stable/ref/) offers detailed information about the framework's classes, methods, and modules for developers.
-
-## Developer Documentation
-
-### Description:
-Developer documentation provides technical details, guidelines, and best practices for developers contributing to your open source project. It empowers new and experienced developers to understand the codebase, follow coding standards, and contribute effectively.
-
-### Examples:
-- **Libresource:**
-  - **Codebase Overview:** Our [Developer's Guide](https://libresource.info/docs/developers-guide) provides an overview of the codebase architecture, explaining key components and their interactions.
-  - **Coding Standards:** Read our [Coding Standards](https://libresource.info/docs/coding-standards) document for guidelines on code formatting, naming conventions, and best practices.
-  - **Contribution Workflow:** The [Contribution Workflow](https://libresource.info/docs/contribution-workflow) outlines the step-by-step process for submitting pull requests, code reviews, and project integration.
-- **TensorFlow:**
-  - **Source Code Structure:** TensorFlow's [Contributor Guide](https://www.tensorflow.org/community/contribute) offers insights into the project's source code structure, modules, and major components.
-  - **Code Reviews:** Learn about TensorFlow's code review process, including expectations and guidelines for submitting and reviewing code changes.
-  - **Testing Practices:** Understand TensorFlow's testing practices and how developers can write effective tests to maintain code quality.
-- **Django:**
-  - **Codebase Architecture:** Django's [Developer Overview](https://docs.djangoproject.com/en/stable/internals/) explains the project's architecture, including key components like models, views, and templates.
-  - **Contributor's Guide:** The [Contributor's Guide](https://docs.djangoproject.com/en/stable/internals/contributing/) outlines the steps for contributing code, reporting bugs, and engaging with the Django community.
-  - **Codebase Conventions:** Django follows specific coding conventions detailed in the [Coding Style](https://docs.djangoproject.com/en/stable/internals/contributing/writing-code/coding-style/) guide, ensuring consistency across the codebase.
 
 ## Examples Output and Screenshots
 
