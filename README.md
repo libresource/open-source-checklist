@@ -243,12 +243,20 @@ The source code and contribution guidelines can be found at the [GitHub Reposito
 ## Bug Tracker Access
 
 ### Description:
-A bug tracker provides a structured way to report, track, and manage issues within your project. Granting access to the bug tracker allows users and contributors to report bugs, suggest enhancements, and follow the progress of issue resolution.
+A bug tracker provides a structured way to report, track, and manage issues within your project. 
+Granting access to the bug tracker allows users and contributors to report bugs, suggest enhancements, 
+and follow the progress of issue resolution.
 
 ### Examples:
-- **Libresource:** To report bugs or suggest improvements, visit our [GitHub Issues](https://github.com/libresource/libresource/issues) page. You can create new issues, track existing ones, and participate in discussions related to the project's development.
-- **TensorFlow:** Issues and bug reports for TensorFlow are managed on [GitHub](https://github.com/tensorflow/tensorflow/issues). Users can report problems, suggest features, and follow the development progress here.
-- **Django:** Django's bug tracker is hosted on [GitHub](https://github.com/django/django/issues). Users and developers can report bugs, propose changes, and discuss issues related to Django's development.
+- **Open Source Checklist (This Project):** To report bugs or suggest improvements, 
+visit our [GitHub Issues](https://github.com/quillcraftsman/open-source-checklist/issues) page. 
+You can create [new issues](https://github.com/quillcraftsman/open-source-checklist/issues/new), 
+track existing ones, and participate in discussions related to the project's development.
+- **FindSimilar:** Issues and bug reports for FindSimilar are managed on 
+[GitHub](https://github.com/findsimilar/find-similar/issues). 
+Users can report problems, suggest features, and follow the development progress here.
+- **Django:** Django's bug tracker is hosted on [GitHub](https://github.com/django/django/issues). 
+Users and developers can report bugs, propose changes, and discuss issues related to Django's development.
 
 ## Communication Channels
 
