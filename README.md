@@ -158,23 +158,26 @@ We welcome contributors from all backgrounds to join us in shaping the future of
 ## Features
 
 ### Description:
-Listing the current features of your project provides users and potential contributors with a clear understanding of what the project can do. It helps manage expectations and showcases the strengths of your open source software.
+Listing the current features of your project provides users and potential contributors with a clear understanding of what the project can do. 
+It helps manage expectations and showcases the strengths of your open source software.
 
 ### Examples:
-- **Libresource:**
-  - Text similarity comparison across multiple languages.
-  - Extensive library support for various data types.
-  - User-friendly API for easy integration into existing projects.
+- **Open Source Checklist (This project):**
+  - Checklist with **md** structure
+  - Full description about each point in checklist
+  - Several examples to each point in checklist
   
-- **TensorFlow:**
-  - Deep learning models for image recognition, natural language processing, and more.
-  - Scalability and flexibility in model development.
-  - TensorFlow Serving for deploying machine learning models in production environments.
+- **FindSimilar:**
+  - Find similar text sentences
+  - Compare one text sentence with many
+  - Sort similar texts by match percentage
+  - Research laboratory with scripts to improve main algorithms
 
 - **Django:**
   - Object-relational mapping for database interactions.
   - Built-in administrative interface for managing site content.
   - Extensive template system for flexible and dynamic web page rendering.
+  - ...
 
 ## Requirements
 
