@@ -307,8 +307,10 @@ and ensures a consistent understanding of the project's functionality.
   - **Installation:** https://github.com/findsimilar/find-similar#installation
   - **Usage:** https://github.com/findsimilar/find-similar#usage-example
 - **Django:**
-  - **Getting Started:** Django's [Getting Started Guide](https://www.djangoproject.com/start/) offers a beginner-friendly introduction to setting up a Django project.
-  - **Official Documentation:** The [Official Documentation](https://docs.djangoproject.com/en/stable/) provides detailed information on Django's features, components, and advanced usage scenarios.
+  - **Getting Started:** Django's [Getting Started Guide](https://www.djangoproject.com/start/) offers a beginner-friendly 
+  introduction to setting up a Django project.
+  - **Official Documentation:** The [Official Documentation](https://docs.djangoproject.com/en/stable/) provides detailed information
+  on Django's features, components, and advanced usage scenarios.
 
 ## Developer Documentation
 
@@ -322,6 +324,7 @@ It empowers new and experienced developers to understand the codebase, follow co
 - **FindSimilar:**
   - **In special md file:** [DEVELOPER_DOCUMENTATION.md](https://github.com/findsimilar/find-similar/blob/main/DEVELOPER_DOCUMENTATION.md)
   - **In main readme file:** [Development section](https://github.com/findsimilar/find-similar/tree/main#development)
+  - **Source code documentation:** [Part of the official site](https://docs.findsimilar.org)
 - **Django:**
   - **Codebase Architecture:** Django's [Developer Overview](https://docs.djangoproject.com/en/stable/internals/) 
   explains the project's architecture, including key components like models, views, and templates.
@@ -334,25 +337,32 @@ It empowers new and experienced developers to understand the codebase, follow co
 ## Availability of Documentation
 
 ### Description:
-Ensuring that documentation is easily accessible is crucial for user onboarding and developer contributions. Providing clear links to documentation sources simplifies the learning process and encourages users to explore and understand your project.
+Ensuring that documentation is easily accessible is crucial for user onboarding and developer contributions. 
+Providing clear links to documentation sources simplifies the learning process and encourages users to explore and understand your project.
 
 ### Examples:
-- **Libresource:**
-  - **Documentation Hub:** Find all documentation resources on our [Documentation Hub](https://libresource.info/docs), 
-  including user guides, API references, and contributor guidelines.
-  - **In-App Help:** Access context-sensitive help directly from the Libresource application, 
-  guiding users on specific features and functionalities.
-- **TensorFlow:**
-  - **Official Documentation:** All official TensorFlow documentation is centralized 
-  on the [TensorFlow Documentation](https://www.tensorflow.org/guide) page, 
-  offering comprehensive guides and tutorials for users and developers.
-  - **Interactive Learning:** TensorFlow provides an [Interactive Learning](https://www.tensorflow.org/tutorials) section, 
-  allowing users to learn through hands-on coding exercises.
+- **Open Source Checklist (This Project):**
+  - **On official site:** will be later
+  - **Quickstart:** https://github.com/quillcraftsman/open-source-checklist#quick-start
+  - **Extended Guide:** https://github.com/quillcraftsman/open-source-checklist#extended-guide
+- **FindSimilar:**
+  - **Installation:** https://github.com/findsimilar/find-similar#installation
+  - **Usage:** https://github.com/findsimilar/find-similar#usage-example
+  - **In special md file:** [DEVELOPER_DOCUMENTATION.md](https://github.com/findsimilar/find-similar/blob/main/DEVELOPER_DOCUMENTATION.md)
+  - **In main readme file:** [Development section](https://github.com/findsimilar/find-similar/tree/main#development)
+  - **Source code documentation:** [Part of the official site](https://docs.findsimilar.org)
 - **Django:**
-  - **Documentation Landing Page:** The [Django Documentation](https://docs.djangoproject.com/en/stable/) 
-  landing page serves as the central hub for all Django-related documentation, providing users with a clear starting point.
-  - **API Reference:** Django's [API Reference](https://docs.djangoproject.com/en/stable/ref/) 
-  offers detailed information about the framework's classes, methods, and modules for developers.
+  - **Getting Started:** Django's [Getting Started Guide](https://www.djangoproject.com/start/) offers a beginner-friendly 
+  introduction to setting up a Django project.
+  - **Official Documentation:** The [Official Documentation](https://docs.djangoproject.com/en/stable/) provides detailed information
+  on Django's features, components, and advanced usage scenarios.
+  - **Codebase Architecture:** Django's [Developer Overview](https://docs.djangoproject.com/en/stable/internals/) 
+  explains the project's architecture, including key components like models, views, and templates.
+  - **Contributor's Guide:** The [Contributor's Guide](https://docs.djangoproject.com/en/stable/internals/contributing/) 
+  outlines the steps for contributing code, reporting bugs, and engaging with the Django community.
+  - **Codebase Conventions:** Django follows specific coding conventions detailed in the 
+  [Coding Style](https://docs.djangoproject.com/en/stable/internals/contributing/writing-code/coding-style/) guide, 
+  ensuring consistency across the codebase.
 
 ## FAQ
 
