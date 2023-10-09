@@ -214,67 +214,82 @@ Usability testing.
 ## Download Page
 
 ### Description:
-Having a dedicated download page provides users with a centralized location to obtain the latest version of your open source project. It simplifies the installation process and ensures that users are getting the correct and official release.
+Having a dedicated download page provides users with a centralized location to obtain the latest version of your open source project. 
+It simplifies the installation process and ensures that users are getting the correct and official release.
 
 ### Examples:
-- **Libresource:** Visit our [Download Page](https://libresource.info/download) to get the latest version of Libresource. Choose your operating system and follow the installation instructions provided.
-- **TensorFlow:** Download the latest release of TensorFlow from the [official website](https://www.tensorflow.org/install) based on your system requirements. Detailed installation guides are available for various platforms.
-- **Django:** Head to the [Download Page](https://www.djangoproject.com/download/) on the Django website to find the latest stable release. Installation instructions for different operating systems are provided.
+- **Open Source Checklist (This project):** [Download checklist](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+Later you can download checklist from the project website
+- **FindSimilar:** [Releases page on GitHub](https://github.com/findsimilar/find-similar/releases), 
+[Package on PyPi](https://pypi.org/project/find-similar/)
+- **Django:** Head to the [Download Page](https://www.djangoproject.com/download/) on the Django website to find the latest stable release.
+Installation instructions for different operating systems are provided.
 
 ## Version Control Access
 
 ### Description:
-Providing version control access allows developers to contribute to your project, track changes, and collaborate effectively. It is essential for maintaining transparency and enabling a community-driven development environment.
+Providing version control access allows developers to contribute to your project, track changes, and collaborate effectively. 
+It is essential for maintaining transparency and enabling a community-driven development environment.
 
 ### Examples:
-- **Libresource:** The Libresource project is hosted on GitHub. You can access the source code, contribute, and track changes by visiting our [GitHub Repository](https://github.com/libresource/libresource).
-- **TensorFlow:** TensorFlow's source code is available on GitHub. Developers can contribute and access the latest codebase from the [GitHub Repository](https://github.com/tensorflow/tensorflow).
-- **Django:** Django's version control is managed on GitHub. The source code and contribution guidelines can be found at the [GitHub Repository](https://github.com/django/django).
+- **Open Source Checklist (This project):** This project is hosted on GitHub. 
+You can access the source code, contribute, 
+and track changes by visiting our [GitHub Repository](https://github.com/quillcraftsman/open-source-checklist).
+- **FindSimilar:** FindSimilar's source code is available on GitHub. 
+Developers can contribute and access the latest codebase from the [GitHub Repository](https://github.com/findsimilar/find-similar).
+- **Django:** Django's version control is managed on GitHub. 
+The source code and contribution guidelines can be found at the [GitHub Repository](https://github.com/django/django).
 
 ## Bug Tracker Access
 
 ### Description:
-A bug tracker provides a structured way to report, track, and manage issues within your project. Granting access to the bug tracker allows users and contributors to report bugs, suggest enhancements, and follow the progress of issue resolution.
+A bug tracker provides a structured way to report, track, and manage issues within your project. 
+Granting access to the bug tracker allows users and contributors to report bugs, suggest enhancements, 
+and follow the progress of issue resolution.
 
 ### Examples:
-- **Libresource:** To report bugs or suggest improvements, visit our [GitHub Issues](https://github.com/libresource/libresource/issues) page. You can create new issues, track existing ones, and participate in discussions related to the project's development.
-- **TensorFlow:** Issues and bug reports for TensorFlow are managed on [GitHub](https://github.com/tensorflow/tensorflow/issues). Users can report problems, suggest features, and follow the development progress here.
-- **Django:** Django's bug tracker is hosted on [GitHub](https://github.com/django/django/issues). Users and developers can report bugs, propose changes, and discuss issues related to Django's development.
+- **Open Source Checklist (This Project):** To report bugs or suggest improvements, 
+visit our [GitHub Issues](https://github.com/quillcraftsman/open-source-checklist/issues) page. 
+You can create [new issues](https://github.com/quillcraftsman/open-source-checklist/issues/new), 
+track existing ones, and participate in discussions related to the project's development.
+- **FindSimilar:** Issues and bug reports for FindSimilar are managed on 
+[GitHub](https://github.com/findsimilar/find-similar/issues). 
+Users can report problems, suggest features, and follow the development progress here.
+- **Django:** Django's bug tracker is hosted on [GitHub](https://github.com/django/django/issues). 
+Users and developers can report bugs, propose changes, and discuss issues related to Django's development.
 
 ## Communication Channels
 
 ### Description:
-Setting up communication channels fosters interaction, collaboration, and community engagement. It provides users and developers with platforms to ask questions, share ideas, and participate in discussions related to the project.
+Setting up communication channels fosters interaction, collaboration, and community engagement. 
+It provides users and developers with platforms to ask questions, share ideas, 
+and participate in discussions related to the project.
 
 ### Examples:
-- **Libresource:**
-  - **Mailing List:** Join our [mailing list](https://groups.google.com/g/libresource) for in-depth discussions, announcements, and community updates.
-  - **Chat:** We have an active community chat on [Discord](https://discord.gg/libresource). Join us to chat with developers and fellow users in real-time.
-- **TensorFlow:**
-  - **Forum:** Participate in discussions on the [TensorFlow Forum](https://discuss.tensorflow.org/) where you can ask questions, share knowledge, and collaborate with other TensorFlow users.
-  - **Slack:** The TensorFlow community has a dedicated Slack channel for real-time discussions. Join by requesting an invitation on the [community website](https://www.tensorflow.org/community).
+- **Open Source Checklist (This Project):**
+  - **Mailing List:** Only in plans for now
+  - **Chat:** Only in plans for now
+  - **GitHub Discussions:** Available on [GitHub](https://github.com/quillcraftsman/open-source-checklist/discussions)
+  - **IRC:** Only in plans for now
+- **FindSimilar:**
+  - **GitHub Discussions:** Available on [GitHub](https://github.com/findsimilar/find-similar/discussions)
 - **Django:**
   - **IRC:** Django developers can be found on the `#django` channel on the Freenode IRC network for real-time chat and support.
-  - **Reddit:** Engage with the Django community on the [Django subreddit](https://www.reddit.com/r/django/) for discussions, news, and project-related content.
+  - **Reddit:** Engage with the Django community on the [Django subreddit](https://www.reddit.com/r/django/) 
+  for discussions, news, and project-related content.
+  - **Others:** Django has mailing list, Discord chat, ...
 
 ## Developer Guidelines
 
 ### Description:
-Developer guidelines provide crucial information for new and existing contributors, outlining the project's development process, communication norms, and bug reporting procedures. It helps maintain a consistent and productive collaboration environment.
+Developer guidelines provide crucial information for new and existing contributors, 
+outlining the project's development process, communication norms, and bug reporting procedures. 
+It helps maintain a consistent and productive collaboration environment.
 
 ### Examples:
-- **Libresource:**
-  - **Forum Interaction:** For developer discussions, visit our [Developer Forum](https://community.libresource.info/c/developers) where you can interact with other developers, share ideas, and seek assistance.
-  - **Bug Reporting:** Follow our [Bug Reporting Guidelines](https://github.com/libresource/libresource/blob/main/CONTRIBUTING.md) on GitHub for detailed instructions on reporting bugs and submitting patches.
-  - **Development Approach:** Libresource follows a consensus-based approach, encouraging active discussion and decisions through community consensus.
-- **TensorFlow:**
-  - **Forum Interaction:** Developers collaborate on the [TensorFlow Dev Forum](https://community.tensorflow.org/c/developers) where they discuss development-related topics, seek help, and engage with the community.
-  - **Bug Reporting:** Refer to TensorFlow's [Bug Reporting Guide](https://github.com/tensorflow/tensorflow/blob/main/CONTRIBUTING.md) for step-by-step instructions on reporting bugs and proposing changes.
-  - **Development Approach:** TensorFlow operates under a consensus-seeking model, encouraging input from multiple contributors before making major decisions.
-- **Django:**
-  - **Forum Interaction:** Developers communicate on the [Django Developers Google Group](https://groups.google.com/g/django-developers) for technical discussions, collaboration, and decision-making.
-  - **Bug Reporting:** Django's [Bug Reporting Guide](https://docs.djangoproject.com/en/stable/internals/contributing/bugs-and-features/) provides information on reporting bugs, submitting patches, and getting involved in the development process.
-  - **Development Approach:** Django follows a "benevolent dictatorship" model, with a core team making final decisions based on community input and meritocracy.
+- **Open Source Checklist (This Project):** Developer Guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)
+- **FindSimilar:** Developer Guidelines in [DEVELOPER_GUIDELINES.md](https://github.com/findsimilar/find-similar/blob/main/DEVELOPER_GUIDELINES.md)
+- **Django:** [Special page](https://docs.djangoproject.com/en/dev/internals/contributing/) on the official site
 
 ## Documentation
 
