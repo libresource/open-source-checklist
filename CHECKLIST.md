@@ -1,4 +1,4 @@
-Main points
+[Main points](#main-points)
 - [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
 - [ ] [Existing Analogues](https://github.com/quillcraftsman/open-source-checklist#existing-analogues)
 - [ ] [Good Project Name](https://github.com/quillcraftsman/open-source-checklist#good-project-name)
@@ -19,7 +19,7 @@ Main points
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 
-Technical infrastructure
+[Technical infrastructure](#technical-infrastructure)
 - [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
 - [ ] [Mailing List](https://github.com/quillcraftsman/open-source-checklist#mailing-list)
 - [ ] [Version Control](https://github.com/quillcraftsman/open-source-checklist#version-control)
