@@ -127,7 +127,7 @@ It communicates the project's vision, target audience, and the problems it aims 
 A well-defined mission provides direction and aligns the community towards a common goal.
 
 ### Examples:
-- **Open Source Checklist:** "The "Open Source Checklist" project is dedicated to simplifying the journey of open source development
+- **Open Source Checklist (This project):** "The "Open Source Checklist" project is dedicated to simplifying the journey of open source development
 for creators and contributors alike. Our mission is to provide a comprehensive, 
 user-friendly guide encompassing every essential aspect of open source projects."
 - **TensorFlow:** "To enable efficient, flexible, 
@@ -142,12 +142,18 @@ our project aims to simplify the process of identifying similarities and enhanci
 ## State What the Project Is Free
 
 ### Description:
-Clearly stating that the project is free to use and open for contribution encourages a collaborative atmosphere. It welcomes users to utilize the project without any cost and invites developers to contribute code, report issues, or suggest enhancements.
+Clearly stating that the project is free to use and open for contribution encourages a collaborative atmosphere.
+It welcomes users to utilize the project without any cost and invites developers to contribute code, report issues, or suggest enhancements.
 
 ### Examples:
-- **Libresource:** This project is open and free for everyone to use. Contributions from developers and users are highly encouraged and valued. Feel free to fork the repository, submit pull requests, or report issues.
-- **TensorFlow:** TensorFlow is an open source project available to the public for free. We welcome contributions from the community. Check out our contributing guidelines to get involved.
-- **Django:** Django is free to use for any purpose. We appreciate contributions in any form: code, documentation, bug reports, feature requests, or financial support.
+- **Open Source Checklist (This project):** This project is open and free for everyone to use. 
+Contributions from developers and users are highly encouraged and valued. Feel free to fork the repository, submit pull requests, or report issues.
+- **TensorFlow:** TensorFlow is an open source project available to the public for free. 
+We welcome contributions from the community. Check out our contributing guidelines to get involved.
+- **Django:** Django is free to use for any purpose. 
+We appreciate contributions in any form: code, documentation, bug reports, feature requests, or financial support.
+- **FindSimilar:** "FindSimilar" is an open source project, fostering collaboration and innovation. 
+We welcome contributors from all backgrounds to join us in shaping the future of similarity comparisons across various data types. 
 
 ## Features
 
