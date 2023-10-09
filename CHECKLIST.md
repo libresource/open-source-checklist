@@ -1,23 +1,29 @@
-- [ ] Good Project Name
-- [ ] Mission
-- [ ] Existing Analogues
-- [ ] State What the Project Is Free
-- [ ] Features
-- [ ] Requirements
-- [ ] Development Status
-- [ ] Download Page
-- [ ] Version Control Access
-- [ ] Bug Tracker Access
-- [ ] Communication Channels
-- [ ] Developer Guidelines
-- [ ] Documentation
-- [ ] FAQ (Frequently Asked Questions)
-- [ ] Availability of Documentation
-- [ ] Developer Documentation
-- [ ] Examples Output and Screenshots
-- [ ] License
-- [ ] Website
-- [ ] Mailing List
-- [ ] Version Control
-- [ ] Bug Tracking
-- [ ] Real-Time Chat
+[Main points](#main-points)
+- [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
+- [ ] [Existing Analogues](https://github.com/quillcraftsman/open-source-checklist#existing-analogues)
+- [ ] [Good Project Name](https://github.com/quillcraftsman/open-source-checklist#good-project-name)
+- [ ] [Mission](https://github.com/quillcraftsman/open-source-checklist#mission)
+- [ ] [State What the Project Is Free](https://github.com/quillcraftsman/open-source-checklist#state-what-the-project-is-free)
+- [ ] [Features](https://github.com/quillcraftsman/open-source-checklist#features)
+- [ ] [Requirements](https://github.com/quillcraftsman/open-source-checklist#requirements)
+- [ ] [Development Status](https://github.com/quillcraftsman/open-source-checklist#development-status)
+- [ ] [Download Page](https://github.com/quillcraftsman/open-source-checklist#download-page)
+- [ ] [Version Control Access](https://github.com/quillcraftsman/open-source-checklist#version-control-access)
+- [ ] [Bug Tracker Access](https://github.com/quillcraftsman/open-source-checklist#bug-tracker-access)
+- [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
+- [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
+- [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
+- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
+- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
+- [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
+- [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
+- [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
+
+[Technical infrastructure](#technical-infrastructure)
+- [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
+- [ ] [Mailing List](https://github.com/quillcraftsman/open-source-checklist#mailing-list)
+- [ ] [Version Control](https://github.com/quillcraftsman/open-source-checklist#version-control)
+- [ ] [Bug Tracking](https://github.com/quillcraftsman/open-source-checklist#bug-tracking)
+- [ ] [Real-Time Chat](https://github.com/quillcraftsman/open-source-checklist#real-time-chat)
+
+[repo]: https://github.com/quillcraftsman/open-source-checklist

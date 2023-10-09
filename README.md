@@ -1,9 +1,11 @@
-# open-source-checklist
-open-source-checklist
+# Open Source Checklist
+How to use will be here
 
+[Main points](#main-points)
+- [Open Source Project Checklist](#open-source-project-checklist)
+- [Existing Analogues](#existing-analogues)
 - [Good Project Name](#good-project-name)
 - [Mission](#mission)
-- [Existing Analogues](#existing-analogues)
 - [State What the Project Is Free](#state-what-the-project-is-free)
 - [Features](#features)
 - [Requirements](#requirements)
@@ -19,11 +21,38 @@ open-source-checklist
 - [Developer Documentation](#developer-documentation)
 - [Examples Output and Screenshots](#examples-output-and-screenshots)
 - [License](#license)
+
+[Technical infrastructure](#technical-infrastructure)
 - [Website](#website)
 - [Mailing List](#mailing-list)
 - [Version Control](#version-control)
 - [Bug Tracking](#bug-tracking)
 - [Real-Time Chat](#real-time-chat)
+
+# Main points
+
+## Open Source Project Checklist
+
+### Description:
+This checklist
+
+### Examples
+Some examples
+
+## Existing Analogues
+
+### Description:
+Research existing projects or software that offer similar functionality to your open source project.
+Understanding the landscape of existing analogues helps you identify unique features, gaps in the market, 
+and opportunities for innovation.
+
+### Examples:
+- **Libresource:** Explores existing similarity comparison libraries like scikit-learn, gensim, 
+and fuzzywuzzy to analyze their strengths, weaknesses, and user feedback.
+- **TensorFlow:** Investigates other machine learning frameworks such as PyTorch, 
+Keras, and Theano to assess their model compatibility, performance, and community support.
+- **Django:** Studies other web development frameworks like Flask, 
+Ruby on Rails, and Express.js to compare their ease of use, extensibility, and community engagement.
 
 ## Good Project Name
 
@@ -45,17 +74,7 @@ A clear mission statement defines the project's goals, objectives, and purpose. 
 - **TensorFlow:** "To enable efficient, flexible, and scalable machine learning through an open-source platform that empowers researchers and developers worldwide."
 - **Django:** "To make it easier to build web applications by providing reusable, maintainable, and secure components, emphasizing rapid development and clean design."
 
-## Existing Analogues
-
-### Description:
-Research existing projects or software that offer similar functionality to your open source project. Understanding the landscape of existing analogues helps you identify unique features, gaps in the market, and opportunities for innovation.
-
-### Examples:
-- **Libresource:** Explores existing similarity comparison libraries like scikit-learn, gensim, and fuzzywuzzy to analyze their strengths, weaknesses, and user feedback.
-- **TensorFlow:** Investigates other machine learning frameworks such as PyTorch, Keras, and Theano to assess their model compatibility, performance, and community support.
-- **Django:** Studies other web development frameworks like Flask, Ruby on Rails, and Express.js to compare their ease of use, extensibility, and community engagement.
-
-## Free and Open for Contribution
+## State What the Project Is Free
 
 ### Description:
 Clearly stating that the project is free to use and open for contribution encourages a collaborative atmosphere. It welcomes users to utilize the project without any cost and invites developers to contribute code, report issues, or suggest enhancements.
@@ -201,7 +220,7 @@ Comprehensive documentation is essential for users and developers to understand 
   - **Official Documentation:** The [Official Documentation](https://docs.djangoproject.com/en/stable/) provides detailed information on Django's features, components, and advanced usage scenarios.
   - **Contributor Documentation:** Interested in contributing? Django's [Contributor Documentation](https://docs.djangoproject.com/en/stable/internals/contributing/) outlines the contribution process, coding standards, and development workflow.
 
-## FAQ (Frequently Asked Questions)
+## FAQ
 
 ### Description:
 An FAQ section addresses common questions users might have about your open source project. While it might be empty at the project's start, it's a valuable addition as your project gains users. Anticipate questions users might ask and provide concise, helpful answers to enhance user experience.
@@ -239,7 +258,7 @@ Ensuring that documentation is easily accessible is crucial for user onboarding 
   - **Documentation Landing Page:** The [Django Documentation](https://docs.djangoproject.com/en/stable/) landing page serves as the central hub for all Django-related documentation, providing users with a clear starting point.
   - **API Reference:** Django's [API Reference](https://docs.djangoproject.com/en/stable/ref/) offers detailed information about the framework's classes, methods, and modules for developers.
 
-## Developers Documentation
+## Developer Documentation
 
 ### Description:
 Developer documentation provides technical details, guidelines, and best practices for developers contributing to your open source project. It empowers new and experienced developers to understand the codebase, follow coding standards, and contribute effectively.
@@ -288,6 +307,8 @@ The license outlines the terms under which your open source project is distribut
 - **Django:** Django is open-source software distributed under the [BSD License](https://opensource.org/licenses/BSD-3-Clause), allowing users to use, modify, and distribute the software for any purpose with proper attribution.
 
 Please note that these are just examples. It's crucial to consult legal experts or licensing professionals to choose the right license for your specific project and community needs.
+
+# Technical infrastructure
 
 ## Website
 
