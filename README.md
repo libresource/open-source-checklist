@@ -214,12 +214,16 @@ Usability testing.
 ## Download Page
 
 ### Description:
-Having a dedicated download page provides users with a centralized location to obtain the latest version of your open source project. It simplifies the installation process and ensures that users are getting the correct and official release.
+Having a dedicated download page provides users with a centralized location to obtain the latest version of your open source project. 
+It simplifies the installation process and ensures that users are getting the correct and official release.
 
 ### Examples:
-- **Libresource:** Visit our [Download Page](https://libresource.info/download) to get the latest version of Libresource. Choose your operating system and follow the installation instructions provided.
-- **TensorFlow:** Download the latest release of TensorFlow from the [official website](https://www.tensorflow.org/install) based on your system requirements. Detailed installation guides are available for various platforms.
-- **Django:** Head to the [Download Page](https://www.djangoproject.com/download/) on the Django website to find the latest stable release. Installation instructions for different operating systems are provided.
+- **Open Source Checklist (This project):** [Download checklist](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+Later you can download checklist from the project website
+- **FindSimilar:** [Releases page on GitHub](https://github.com/findsimilar/find-similar/releases), 
+[Package on PyPi](https://pypi.org/project/find-similar/)
+- **Django:** Head to the [Download Page](https://www.djangoproject.com/download/) on the Django website to find the latest stable release.
+Installation instructions for different operating systems are provided.
 
 ## Version Control Access
 
