@@ -47,7 +47,10 @@ To use checklist:
 ~~~
 
 - Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
-- Or you can use this repository as template (Because it contains another useful files)
+- Or you can use this repository as template. Because it contains another useful files:
+  - [Code of Conduct](CODE_OF_CONDUCT.md)
+  - [Security Policy](SECURITY.md)
+  - [Developer Guidlines in CONTRIBUTING.md](CONTRIBUTING.md)
 
 Be free to fork this repository, change the checklist or any another file. Just enjoy yourself.
 
