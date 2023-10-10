@@ -29,6 +29,7 @@ To use checklist:
 - [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
+- [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
 
 [Technical infrastructure](https://github.com/quillcraftsman/open-source-checklist#technical-infrastructure)
 - [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
@@ -66,6 +67,7 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [FAQ](#faq)
 - [Examples Output and Screenshots](#examples-output-and-screenshots)
 - [License](#license)
+- [Code of Conduct](#code-of-conduct)
 
 [Technical infrastructure](#technical-infrastructure)
 - [Website](#website)
@@ -398,6 +400,20 @@ It clarifies what others can and cannot do with your software, protecting both u
 - **FindSimilar:** is licensed under the [MIT license](https://github.com/findsimilar/find-similar/blob/main/LICENSE)
 - **Django:** is open-source software distributed under the [BSD License](https://opensource.org/licenses/BSD-3-Clause), 
 allowing users to use, modify, and distribute the software for any purpose with proper attribution.
+
+## Code of Conduct
+
+### Description:
+A Code of Conduct is a set of guidelines that outlines expected behavior and promotes a positive and inclusive environment within a community, 
+project, or organization. It ensures respectful communication, inclusivity, and a safe space for all contributors, 
+fostering a collaborative and welcoming atmosphere.
+
+### Examples:
+- **Open Source Checklist (This Project):** [CODE_OF_COUNDUCT.md](CODE_OF_CONDUCT.md)
+
+- **FindSimilar:** [CODE_OF_CONDUCT.md](https://github.com/findsimilar/find-similar/blob/main/CODE_OF_CONDUCT.md)
+
+- **Django:** [Special section](https://www.djangoproject.com/conduct/) on the official site
 
 # Technical infrastructure
 
