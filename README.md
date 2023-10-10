@@ -30,13 +30,14 @@ To use checklist:
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 - [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
+- [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist##security-policy)
 
-[Technical infrastructure](https://github.com/quillcraftsman/open-source-checklist#technical-infrastructure)
-- [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
-- [ ] [Mailing List](https://github.com/quillcraftsman/open-source-checklist#mailing-list)
-- [ ] [Version Control](https://github.com/quillcraftsman/open-source-checklist#version-control)
-- [ ] [Bug Tracking](https://github.com/quillcraftsman/open-source-checklist#bug-tracking)
-- [ ] [Real-Time Chat](https://github.com/quillcraftsman/open-source-checklist#real-time-chat)
+[CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
+- [ ] Test Coverage 100%
+- [ ] Tests
+- [ ] Linters
+- [ ] Build
+- [ ] Deploy
 ~~~
 
 
@@ -68,13 +69,9 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [Examples Output and Screenshots](#examples-output-and-screenshots)
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
+- [Security Policy](#security-policy)
 
-[Technical infrastructure](#technical-infrastructure)
-- [Website](#website)
-- [Mailing List](#mailing-list)
-- [Version Control](#version-control)
-- [Bug Tracking](#bug-tracking)
-- [Real-Time Chat](#real-time-chat)
+[CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
 
 # Main points
 
@@ -279,7 +276,8 @@ and participate in discussions related to the project.
   - **IRC:** Django developers can be found on the `#django` channel on the Freenode IRC network for real-time chat and support.
   - **Reddit:** Engage with the Django community on the [Django subreddit](https://www.reddit.com/r/django/) 
   for discussions, news, and project-related content.
-  - **Others:** Django has mailing list, Discord chat, ...
+  - **Mailing list:** [Developer Mailing List](https://groups.google.com/g/django-developers)
+  - **Chat:** [Discord chat](https://discord.gg/xcRH6mN4fa)
 
 ## Developer Guidelines
 
@@ -413,91 +411,23 @@ fostering a collaborative and welcoming atmosphere.
 
 - **FindSimilar:** [CODE_OF_CONDUCT.md](https://github.com/findsimilar/find-similar/blob/main/CODE_OF_CONDUCT.md)
 
-- **Django:** [Special section](https://www.djangoproject.com/conduct/) on the official site
+- **Django:** [Special section](https://www.djangoproject.com/conduct/) on the official website
 
-# Technical infrastructure
-
-## Website
+## Security Policy
 
 ### Description:
-A project website serves as the primary online presence for your open source project. It provides essential information, documentation, download links, and a platform for community engagement. A well-designed website enhances user experience and promotes your project effectively.
 
-### Key Elements:
-- **Home Page:** A welcoming introduction to your project, highlighting its purpose, key features, and benefits.
-- **Documentation Section:** Clear and detailed documentation, including installation guides, API references, and tutorials.
-- **Download Page:** A dedicated section for users to download the latest stable release of your software with clear installation instructions.
-- **Community Forums:** Interactive forums or discussion boards where users and developers can ask questions, share experiences, and collaborate.
-- **Blog/News Section:** Regular updates, release announcements, and project news keep the community informed about the project's progress.
-- **Contributor Guidelines:** Information for potential contributors, including coding standards, bug reporting procedures, and contribution guidelines.
-- **Contact Information:** An easily accessible contact page or email address for inquiries, feedback, or collaboration proposals.
+A Security Policy outlines the measures and practices your project adopts to ensure the security of the software and its users. 
+It defines how security vulnerabilities are identified, reported, and addressed, creating a safe environment for users and contributors.
 
 ### Examples:
-- **Libresource:** Visit the [Libresource Website](https://libresource.info) for a user-friendly interface showcasing project features, documentation, and community resources.
-- **TensorFlow:** Explore the [TensorFlow Website](https://www.tensorflow.org) with its comprehensive documentation, download links, community forums, and the latest news on TensorFlow advancements.
-- **Django:** The [Django Website](https://www.djangoproject.com) provides an intuitive layout featuring project information, tutorials, downloads, community forums, and developer resources.
 
-## Mailing List
+- **Open Source Checklist (This Project):** [SECURITY.md](SECURITY.md)
+- **FindSimilar:** [SECURITY.md](https://github.com/findsimilar/find-similar/blob/main/SECURITY.md)
+- **Django:** [Special section](https://docs.djangoproject.com/en/dev/internals/security/) on the official website 
 
-### Description:
-A mailing list provides a platform for asynchronous communication among project contributors and users. It enables discussions, announcements, and collaboration via email. Mailing lists facilitate broad participation and are especially useful for developers and users who prefer email-based communication.
-
-### Key Elements:
-- **Discussion Threads:** Threads organize topics of conversation, making it easy to follow discussions.
-- **Subscription Management:** Users can subscribe, unsubscribe, and manage their mailing list preferences.
-- **Moderation:** Moderators ensure the discussions stay on topic and within the project's guidelines.
-- **Archives:** Archived messages allow users to search and review past discussions.
-
-### Examples:
-- **Libresource:** Libresource's mailing list, hosted on [Google Groups](https://groups.google.com/g/libresource), serves as a hub for developer discussions, announcements, and collaboration.
-- **TensorFlow:** The [TensorFlow Mailing List](https://groups.google.com/g/tensorflow) fosters discussions among developers, researchers, and users, facilitating knowledge exchange and issue resolution.
-- **Django:** Django's [Developer Mailing List](https://groups.google.com/g/django-developers) supports technical discussions, coding help, and collaboration, enhancing the Django community's cohesion.
-
-## Version Control
-
-### Description:
-Version control systems enable collaborative software development by tracking changes, managing revisions, and facilitating team collaboration. Using version control ensures code integrity, simplifies collaboration, and supports effective project management.
-
-### Key Elements:
-- **Repository:** A central location where project files and version history are stored.
-- **Branching and Merging:** Allows for parallel development efforts and seamless integration of changes.
-- **Commit History:** A record of changes made by contributors, providing transparency and accountability.
-- **Pull Requests/Merge Requests:** Mechanisms for proposing, reviewing, and integrating code changes.
-- **Collaboration Features:** Commenting, issue linking, and continuous integration integration enhance collaboration within version control platforms.
-
-### Examples:
-- **Libresource:** Libresource's source code is hosted on [GitHub](https://github.com/libresource/libresource), allowing contributors to create branches, propose changes, and participate in code reviews through pull requests.
-- **TensorFlow:** TensorFlow's codebase resides on [GitHub](https://github.com/tensorflow/tensorflow), enabling developers worldwide to collaborate, propose changes, and merge contributions effectively.
-- **Django:** Django's repository on [GitHub](https://github.com/django/django) is a collaborative space where contributors work on features, bug fixes, and improvements, following a structured review and merge process.
-
-## Bug Tracking
-
-### Description:
-Bug tracking systems are essential for managing and resolving issues reported by users and contributors. They provide a structured way to document, prioritize, and track the progress of bugs, enhancements, and feature requests, ensuring efficient problem resolution and project improvement.
-
-### Key Elements:
-- **Issue Creation:** Users and developers can create detailed issue reports, including descriptions, steps to reproduce, and attachments.
-- **Issue Prioritization:** Allows assigning priority levels to issues, helping developers focus on critical problems first.
-- **Status Tracking:** Tracks the status of issues, such as open, in progress, or resolved, providing visibility into the resolution process.
-- **Collaboration:** Enables discussions among contributors, users, and developers, fostering collaboration to resolve issues effectively.
-
-### Examples:
-- **Libresource:** Libresource's bug tracking is managed on [GitHub Issues](https://github.com/libresource/libresource/issues), where users can report bugs, suggest enhancements, and engage in discussions about the project's development.
-- **TensorFlow:** TensorFlow uses [GitHub Issues](https://github.com/tensorflow/tensorflow/issues) for tracking bugs and feature requests, allowing contributors and users to collaborate on issue resolution.
-- **Django:** Django's bug tracking system on [GitHub Issues](https://github.com/django/django/issues) enables the community to report bugs, propose changes, and discuss potential improvements.
-
-## Real-Time Chat
-
-### Description:
-Real-time chat platforms offer instant communication channels, fostering rapid collaboration and support within your project's community. They are particularly useful for interactive discussions, troubleshooting, and providing quick assistance to users and contributors.
-
-### Key Elements:
-- **Channels:** Organize discussions into specific channels based on topics, features, or technical aspects.
-- **User Mentions:** Notify specific users by mentioning their usernames, ensuring targeted communication.
-- **File Sharing:** Allows users to share code snippets, documents, and images for collaborative troubleshooting.
-- **Integration:** Integration with version control systems, bug trackers, and other tools streamlines collaboration and information flow.
-- **Search Functionality:** Enables users to search chat history, finding relevant discussions and solutions.
-
-### Examples:
-- **Libresource:** Libresource's real-time chat takes place on [Discord](https://discord.gg/libresource), offering multiple channels for different topics, including technical support, announcements, and general discussions.
-- **TensorFlow:** TensorFlow's community interacts on the [TensorFlow Slack](https://www.tensorflow.org/community) channel, where developers and users engage in real-time discussions, collaborate on projects, and share knowledge.
-- **Django:** Django's real-time communication happens on the `#django` channel on the Freenode IRC network, providing a platform for developers to discuss coding issues, seek assistance, and share experiences.
+# CI and CD
+- Test Coverage 100%
+- Tests
+- Linters
+- Build

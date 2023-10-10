@@ -1,4 +1,4 @@
-# Open Source Checklist Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 
@@ -41,7 +41,8 @@ posting via an official social media account, or acting as an appointed represen
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [quill@craftsman.lol]. 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team 
+at [quill@craftsman.lol](mailto:quill@craftsman.lol). 
 The project team will review and investigate all complaints and will respond in a way that it deems appropriate to the circumstances. 
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident. 
 Further details of specific enforcement policies may be posted separately.
