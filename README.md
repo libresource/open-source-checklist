@@ -23,6 +23,10 @@ To use checklist:
 - [ ] [Version Control Access](https://github.com/quillcraftsman/open-source-checklist#version-control-access)
 - [ ] [Bug Tracker Access](https://github.com/quillcraftsman/open-source-checklist#bug-tracker-access)
 - [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
+- - [ ] Discussions
+- - [ ] Mailing List
+- - [ ] Real-time chat
+- - [ ] Forum
 - [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
 - [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
 - [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
@@ -34,8 +38,9 @@ To use checklist:
 - [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist#security-policy)
 
 [CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
-- [ ] Test Coverage 100%
 - [ ] Tests
+- [ ] Test Coverage
+- [ ] Test Coverage 100%
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
@@ -258,6 +263,11 @@ Users can report problems, suggest features, and follow the development progress
 Users and developers can report bugs, propose changes, and discuss issues related to Django's development.
 
 ## Communication Channels
+
+- Discussions
+- Mailing List
+- Real-time chat
+- Forum
 
 ### Description:
 Setting up communication channels fosters interaction, collaboration, and community engagement. 
