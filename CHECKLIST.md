@@ -18,6 +18,7 @@
 - [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
+- [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
 
 [Technical infrastructure](https://github.com/quillcraftsman/open-source-checklist#technical-infrastructure)
 - [ ] [Website](https://github.com/quillcraftsman/open-source-checklist#website)
