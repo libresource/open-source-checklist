@@ -19,7 +19,7 @@
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 - [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
-- [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist##security-policy)
+- [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist#security-policy)
 
 [CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
 - [ ] Test Coverage 100%

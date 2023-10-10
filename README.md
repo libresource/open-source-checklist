@@ -8,6 +8,7 @@ If you don't know what is some point mean you can go by link and read the descri
 
 To use checklist:
 - Copy checklist from README below:
+
 ~~~
 [Main points](https://github.com/quillcraftsman/open-source-checklist#main-points)
 - [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
@@ -30,7 +31,7 @@ To use checklist:
 - [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 - [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
-- [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist##security-policy)
+- [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist#security-policy)
 
 [CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
 - [ ] Test Coverage 100%
@@ -39,7 +40,6 @@ To use checklist:
 - [ ] Build
 - [ ] Deploy
 ~~~
-
 
 - Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
 - Or you can use this repository as template (Because it contains another useful files)
@@ -71,7 +71,7 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [Code of Conduct](#code-of-conduct)
 - [Security Policy](#security-policy)
 
-[CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
+[CI and CD](#ci-and-cd)
 
 # Main points
 
