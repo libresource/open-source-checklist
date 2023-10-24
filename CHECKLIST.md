@@ -24,6 +24,9 @@
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 - [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
 - [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist#security-policy)
+- [ ] [Governance](https://github.com/quillcraftsman/open-source-checklist#governance)
+- [ ] [Issue templates](https://github.com/quillcraftsman/open-source-checklist#issue-templates)
+- [ ] [Support](https://github.com/quillcraftsman/open-source-checklist#support)
 
 [CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
 - [ ] Tests
@@ -32,3 +35,4 @@
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
+- [ ] New User Greetings

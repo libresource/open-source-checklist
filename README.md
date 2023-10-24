@@ -36,6 +36,9 @@ To use checklist:
 - [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
 - [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
 - [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist#security-policy)
+- [ ] [Governance](https://github.com/quillcraftsman/open-source-checklist#governance)
+- [ ] [Issue templates](https://github.com/quillcraftsman/open-source-checklist#issue-templates)
+- [ ] [Support](https://github.com/quillcraftsman/open-source-checklist#support)
 
 [CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
 - [ ] Tests
@@ -44,6 +47,7 @@ To use checklist:
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
+- [ ] New User Greetings
 ~~~
 
 - Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
@@ -78,6 +82,8 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
 - [Security Policy](#security-policy)
+- [Governance](#governance)
+- [Issue Templates](#issue-templates)
 
 [CI and CD](#ci-and-cd)
 
@@ -438,6 +444,51 @@ It defines how security vulnerabilities are identified, reported, and addressed,
 - **Open Source Checklist (This Project):** [SECURITY.md](SECURITY.md)
 - **FindSimilar:** [SECURITY.md](https://github.com/findsimilar/find-similar/blob/main/SECURITY.md)
 - **Django:** [Special section](https://docs.djangoproject.com/en/dev/internals/security/) on the official website 
+
+## Governance
+
+### Description:
+
+Governance in the context of an open-source project refers to the organizational structure, decision-making processes, 
+and roles within the project community. A well-defined governance model clarifies how decisions are made, who has authority, 
+and how contributors can participate in the decision-making process. It provides transparency and stability to the project, 
+ensuring smooth collaboration and growth.
+
+### Examples:
+
+- **Open Source Checklist (This Project)**: [GOVERNANCE.md](GOVERNANCE.md)
+- **FindSimilar**: [GOVERNANCE.md](https://github.com/findsimilar/find-similar/blob/main/GOVERNANCE.md)
+- **Django Dry Tests**: [GOVERNANCE.md](https://github.com/quillcraftsman/django-dry-tests/blob/main/GOVERNANCE.md)
+
+## Issue Templates
+
+### Description
+
+Issue templates are predefined formats for creating new issues in a GitHub repository. 
+They provide a structured way for users to report bugs, request features, or ask questions. 
+By using issue templates, you ensure that contributors provide essential information, 
+making it easier to understand and address their concerns effectively.
+
+### Examples:
+
+- **Open Source Checklist (This Project)**: [GitHub issue templates](https://github.com/quillcraftsman/open-source-checklist/tree/main/.github/ISSUE_TEMPLATE)
+- **FindSimilar**: [GitHub issue templates](https://github.com/findsimilar/find-similar/tree/main/.github/ISSUE_TEMPLATE)
+- **Django Dry Tests**: [GitHub issue templates](https://github.com/quillcraftsman/django-dry-tests/tree/main/.github/ISSUE_TEMPLATE)
+
+## Support
+
+### Description
+
+Support encompasses the different ways in which individuals can contribute to a project's growth, sustainability, and overall success. 
+While support often includes financial donations, it also extends to non-monetary contributions like volunteering, spreading the word, 
+and providing expertise. Projects thrive on a supportive community, and there are diverse avenues for individuals to get involved and make a 
+positive impact.
+
+### Examples:
+
+- **Open Source Checklist (This Project)**: [SUPPORT.md](SUPPORT.md)
+- **FindSimilar**: [SUPPORT.md](https://github.com/findsimilar/find-similar/blob/main/SUPPORT.md)
+- **Django Dry Tests**: [SUPPORT.md](https://github.com/quillcraftsman/django-dry-tests/blob/main/SUPPORT.md)
 
 # CI and CD
 - Test Coverage 100%
