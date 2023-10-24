@@ -84,6 +84,7 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [Security Policy](#security-policy)
 - [Governance](#governance)
 - [Issue Templates](#issue-templates)
+- [Support](#support)
 
 [CI and CD](#ci-and-cd)
 
