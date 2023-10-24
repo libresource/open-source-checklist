@@ -496,3 +496,5 @@ positive impact.
 - Tests
 - Linters
 - Build
+- Deploy
+- New User Greetings
