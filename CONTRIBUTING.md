@@ -34,5 +34,5 @@ Additionally, the code should follow any stylistic and architectural guidelines
 prescribed by the project. In the absence of such guidelines, mimic the styles
 and patterns in the existing code-base.
 
-[issues-path]: https://github.com/quillcraftsman/open-source-checklist/issues
-[discussions-path]: https://github.com/quillcraftsman/open-source-checklist/discussions
+[issues-path]: https://github.com/libresource/open-source-checklist/issues
+[discussions-path]: https://github.com/libresource/open-source-checklist/discussions

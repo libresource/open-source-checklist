@@ -2,7 +2,7 @@
 
 # Quick start
 
-Open Source Project Checklist place in [CHECKLIST.md](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+Open Source Project Checklist place in [CHECKLIST.md](https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md).
 
 If you don't know what is some point mean you can go by link and read the description and check the examples.
 
@@ -10,51 +10,55 @@ To use checklist:
 - Copy checklist from README below:
 
 ~~~
-[Main points](https://github.com/quillcraftsman/open-source-checklist#main-points)
-- [x] [Open Source Project Checklist](https://github.com/quillcraftsman/open-source-checklist#open-source-project-checklist)
-- [ ] [Existing Analogues](https://github.com/quillcraftsman/open-source-checklist#existing-analogues)
-- [ ] [Good Project Name](https://github.com/quillcraftsman/open-source-checklist#good-project-name)
-- [ ] [Mission](https://github.com/quillcraftsman/open-source-checklist#mission)
-- [ ] [State What the Project Is Free](https://github.com/quillcraftsman/open-source-checklist#state-what-the-project-is-free)
-- [ ] [Features](https://github.com/quillcraftsman/open-source-checklist#features)
-- [ ] [Requirements](https://github.com/quillcraftsman/open-source-checklist#requirements)
-- [ ] [Development Status](https://github.com/quillcraftsman/open-source-checklist#development-status)
-- [ ] [Download Page](https://github.com/quillcraftsman/open-source-checklist#download-page)
-- [ ] [Version Control Access](https://github.com/quillcraftsman/open-source-checklist#version-control-access)
-- [ ] [Bug Tracker Access](https://github.com/quillcraftsman/open-source-checklist#bug-tracker-access)
-- [ ] [Communication Channels](https://github.com/quillcraftsman/open-source-checklist#communication-channels)
+[Main points](https://github.com/libresource/open-source-checklist#main-points)
+- [x] [Open Source Project Checklist](https://github.com/libresource/open-source-checklist#open-source-project-checklist)
+- [ ] [Existing Analogues](https://github.com/libresource/open-source-checklist#existing-analogues)
+- [ ] [Good Project Name](https://github.com/libresource/open-source-checklist#good-project-name)
+- [ ] [Mission](https://github.com/libresource/open-source-checklist#mission)
+- [ ] [State What the Project Is Free](https://github.com/libresource/open-source-checklist#state-what-the-project-is-free)
+- [ ] [Features](https://github.com/libresource/open-source-checklist#features)
+- [ ] [Requirements](https://github.com/libresource/open-source-checklist#requirements)
+- [ ] [Development Status](https://github.com/libresource/open-source-checklist#development-status)
+- [ ] [Download Page](https://github.com/libresource/open-source-checklist#download-page)
+- [ ] [Version Control Access](https://github.com/libresource/open-source-checklist#version-control-access)
+- [ ] [Bug Tracker Access](https://github.com/libresource/open-source-checklist#bug-tracker-access)
+- [ ] [Communication Channels](https://github.com/libresource/open-source-checklist#communication-channels)
 - - [ ] Discussions
 - - [ ] Mailing List
 - - [ ] Real-time chat
 - - [ ] Forum
-- [ ] [Developer Guidelines](https://github.com/quillcraftsman/open-source-checklist#developer-guidelines)
-- [ ] [Documentation](https://github.com/quillcraftsman/open-source-checklist#documentation)
-- [ ] [Developer Documentation](https://github.com/quillcraftsman/open-source-checklist#developer-documentation)
-- [ ] [Availability of Documentation](https://github.com/quillcraftsman/open-source-checklist#availability-of-documentation)
-- [ ] [FAQ](https://github.com/quillcraftsman/open-source-checklist#faq)
-- [ ] [Examples Output and Screenshots](https://github.com/quillcraftsman/open-source-checklist#examples-output-and-screenshots)
-- [ ] [License](https://github.com/quillcraftsman/open-source-checklist#license)
-- [ ] [Code of Conduct](https://github.com/quillcraftsman/open-source-checklist#code-of-conduct)
-- [ ] [Security Policy](https://github.com/quillcraftsman/open-source-checklist#security-policy)
-- [ ] [Governance](https://github.com/quillcraftsman/open-source-checklist#governance)
-- [ ] [Issue templates](https://github.com/quillcraftsman/open-source-checklist#issue-templates)
-- [ ] [Support](https://github.com/quillcraftsman/open-source-checklist#support)
+- [ ] [Developer Guidelines](https://github.com/libresource/open-source-checklist#developer-guidelines)
+- [ ] [Documentation](https://github.com/libresource/open-source-checklist#documentation)
+- [ ] [Developer Documentation](https://github.com/libresource/open-source-checklist#developer-documentation)
+- [ ] [Availability of Documentation](https://github.com/libresource/open-source-checklist#availability-of-documentation)
+- [ ] [FAQ](https://github.com/libresource/open-source-checklist#faq)
+- [ ] [Examples Output and Screenshots](https://github.com/libresource/open-source-checklist#examples-output-and-screenshots)
+- [ ] [License](https://github.com/libresource/open-source-checklist#license)
+- [ ] [Code of Conduct](https://github.com/libresource/open-source-checklist#code-of-conduct)
+- [ ] [Security Policy](https://github.com/libresource/open-source-checklist#security-policy)
+- [ ] [Governance](https://github.com/libresource/open-source-checklist#governance)
+- [ ] [Issue templates](https://github.com/libresource/open-source-checklist#issue-templates)
+- [ ] [Support](https://github.com/libresource/open-source-checklist#support)
 
-[CI and CD](https://github.com/quillcraftsman/open-source-checklist#ci-and-cd)
+[CI and CD](https://github.com/libresource/open-source-checklist#ci-and-cd)
 - [ ] Tests
 - [ ] Test Coverage
 - [ ] Test Coverage 100%
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
-- [ ] [New User Greetings](https://github.com/quillcraftsman/open-source-checklist#new-user-greetings)
+- [ ] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)
 ~~~
 
-- Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
+- Copy raw code [here](https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
 - Or you can use this repository as template. Because it contains another useful files:
+  - [Issue templates](.github/ISSUE_TEMPLATE)
+  - [GitHub Actions](.github/workflows)
   - [Code of Conduct](CODE_OF_CONDUCT.md)
+  - [Contributing](CONTRIBUTING.md)
+  - [Governance](GOVERNANCE.md)
   - [Security Policy](SECURITY.md)
-  - [Developer Guidlines in CONTRIBUTING.md](CONTRIBUTING.md)
+  - [Support](SUPPORT.md)
 
 Be free to fork this repository, change the checklist or any another file. Just enjoy yourself.
 
@@ -102,11 +106,11 @@ Be free to fork this repository, change the checklist or any another file. Just 
 ### Description:
 Like "To understand recursion, you must first understand recursion", the first point is **Checklist**.
 Good checklist allow you to create a successful open source project.
-You can use this project [checklist](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+You can use this project [checklist](https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md).
 Or explore the other solutions below in the [Existing Analogues](#existing-analogues)
 
 ### Examples:
-- **Open Source Checklist (This project):** https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md
+- **Open Source Checklist (This project):** https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md
 - **FindSimilar:** https://github.com/findsimilar/find-similar/blob/main/CHECKLIST.md
 - **cfpb/open-source-project-template**: https://github.com/cfpb/open-source-project-template/blob/main/opensource-checklist.md
 
@@ -239,7 +243,7 @@ Having a dedicated download page provides users with a centralized location to o
 It simplifies the installation process and ensures that users are getting the correct and official release.
 
 ### Examples:
-- **Open Source Checklist (This project):** [Download checklist](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
+- **Open Source Checklist (This project):** [Download checklist](https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md).
 Later you can download checklist from the project website
 - **FindSimilar:** [Releases page on GitHub](https://github.com/findsimilar/find-similar/releases), 
 [Package on PyPi](https://pypi.org/project/find-similar/)
@@ -255,7 +259,7 @@ It is essential for maintaining transparency and enabling a community-driven dev
 ### Examples:
 - **Open Source Checklist (This project):** This project is hosted on GitHub. 
 You can access the source code, contribute, 
-and track changes by visiting our [GitHub Repository](https://github.com/quillcraftsman/open-source-checklist).
+and track changes by visiting our [GitHub Repository](https://github.com/libresource/open-source-checklist).
 - **FindSimilar:** FindSimilar's source code is available on GitHub. 
 Developers can contribute and access the latest codebase from the [GitHub Repository](https://github.com/findsimilar/find-similar).
 - **Django:** Django's version control is managed on GitHub. 
@@ -270,8 +274,8 @@ and follow the progress of issue resolution.
 
 ### Examples:
 - **Open Source Checklist (This Project):** To report bugs or suggest improvements, 
-visit our [GitHub Issues](https://github.com/quillcraftsman/open-source-checklist/issues) page. 
-You can create [new issues](https://github.com/quillcraftsman/open-source-checklist/issues/new), 
+visit our [GitHub Issues](https://github.com/libresource/open-source-checklist/issues) page. 
+You can create [new issues](https://github.com/libresource/open-source-checklist/issues/new), 
 track existing ones, and participate in discussions related to the project's development.
 - **FindSimilar:** Issues and bug reports for FindSimilar are managed on 
 [GitHub](https://github.com/findsimilar/find-similar/issues). 
@@ -295,7 +299,7 @@ and participate in discussions related to the project.
 - **Open Source Checklist (This Project):**
   - **Mailing List:** Only in plans for now
   - **Chat:** Only in plans for now
-  - **GitHub Discussions:** Available on [GitHub](https://github.com/quillcraftsman/open-source-checklist/discussions)
+  - **GitHub Discussions:** Available on [GitHub](https://github.com/libresource/open-source-checklist/discussions)
   - **IRC:** Only in plans for now
 - **FindSimilar:**
   - **GitHub Discussions:** Available on [GitHub](https://github.com/findsimilar/find-similar/discussions)
@@ -328,8 +332,8 @@ and ensures a consistent understanding of the project's functionality.
 ### Examples:
 - **Open Source Checklist (This Project):**
   - **On official site:** will be later
-  - **Quickstart:** https://github.com/quillcraftsman/open-source-checklist#quick-start
-  - **Extended Guide:** https://github.com/quillcraftsman/open-source-checklist#extended-guide
+  - **Quickstart:** https://github.com/libresource/open-source-checklist#quick-start
+  - **Extended Guide:** https://github.com/libresource/open-source-checklist#extended-guide
 - **FindSimilar:**
   - **Installation:** https://github.com/findsimilar/find-similar#installation
   - **Usage:** https://github.com/findsimilar/find-similar#usage-example
@@ -370,8 +374,8 @@ Providing clear links to documentation sources simplifies the learning process a
 ### Examples:
 - **Open Source Checklist (This Project):**
   - **On official site:** will be later
-  - **Quickstart:** https://github.com/quillcraftsman/open-source-checklist#quick-start
-  - **Extended Guide:** https://github.com/quillcraftsman/open-source-checklist#extended-guide
+  - **Quickstart:** https://github.com/libresource/open-source-checklist#quick-start
+  - **Extended Guide:** https://github.com/libresource/open-source-checklist#extended-guide
 - **FindSimilar:**
   - **Installation:** https://github.com/findsimilar/find-similar#installation
   - **Usage:** https://github.com/findsimilar/find-similar#usage-example
@@ -479,7 +483,7 @@ making it easier to understand and address their concerns effectively.
 
 ### Examples:
 
-- **Open Source Checklist (This Project)**: [GitHub issue templates](https://github.com/quillcraftsman/open-source-checklist/tree/main/.github/ISSUE_TEMPLATE)
+- **Open Source Checklist (This Project)**: [GitHub issue templates](https://github.com/libresource/open-source-checklist/tree/main/.github/ISSUE_TEMPLATE)
 - **FindSimilar**: [GitHub issue templates](https://github.com/findsimilar/find-similar/tree/main/.github/ISSUE_TEMPLATE)
 - **Django Dry Tests**: [GitHub issue templates](https://github.com/quillcraftsman/django-dry-tests/tree/main/.github/ISSUE_TEMPLATE)
 
