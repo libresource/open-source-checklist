@@ -35,4 +35,4 @@
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
-- [ ] New User Greetings
+- [ ] [New User Greetings](https://github.com/quillcraftsman/open-source-checklist#new-user-greetings)

@@ -47,7 +47,7 @@ To use checklist:
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
-- [ ] New User Greetings
+- [ ] [New User Greetings](https://github.com/quillcraftsman/open-source-checklist#new-user-greetings)
 ~~~
 
 - Copy raw code [here](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
@@ -87,6 +87,13 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [Support](#support)
 
 [CI and CD](#ci-and-cd)
+- Tests
+- Test Coverage
+- Test Coverage 100%
+- Linters
+- Build
+- Deploy
+- [New User Greetings](#new-user-greetings)
 
 # Main points
 
@@ -497,4 +504,18 @@ positive impact.
 - Linters
 - Build
 - Deploy
-- New User Greetings
+
+## New User Greetings
+
+### Description
+
+Greetings of new user is the important part of open source project community. We can use GitHub action to automatize
+this procedure:
+- Then user create a first issue
+- Then user create a first pull request
+
+### Examples:
+
+- **Open Source Checklist (This Project)**: [greetings.yml](.github/workflows/greetings.yml)
+- **Lavacactus**: [greetings.yml](https://github.com/quillcraftsman/lavacactus/blob/master/.github/workflows/greetings.yml)
+- **Django Dry Tests**: [greetings.yml](https://github.com/quillcraftsman/django-dry-tests/blob/main/.github/workflows/greetings.yml)
