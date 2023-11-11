@@ -495,8 +495,7 @@ making it easier to understand and address their concerns effectively.
 ### Description
 
 Pull request templates are predefined formats for creating new pull request in a GitHub repository. 
-When you add a pull request template to your repository, 
-project contributors will automatically see the template's contents in the pull request body.
+When you add a pull request template to your repository, project contributors will automatically see the template's contents in the pull request body.
 
 ### Examples:
 
