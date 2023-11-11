@@ -38,6 +38,7 @@ To use checklist:
 - [ ] [Security Policy](https://github.com/libresource/open-source-checklist#security-policy)
 - [ ] [Governance](https://github.com/libresource/open-source-checklist#governance)
 - [ ] [Issue templates](https://github.com/libresource/open-source-checklist#issue-templates)
+- [ ] [Pull Request Template](https://github.com/libresource/open-source-checklist#pull-request-template)
 - [ ] [Support](https://github.com/libresource/open-source-checklist#support)
 
 [CI and CD](https://github.com/libresource/open-source-checklist#ci-and-cd)
@@ -53,6 +54,7 @@ To use checklist:
 - Copy raw code [here](https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
 - Or you can use this repository as template. Because it contains another useful files:
   - [Issue templates](.github/ISSUE_TEMPLATE)
+  - [Pull Request template](.github/PULL_REQUEST_TEMPLATE.md)
   - [GitHub Actions](.github/workflows)
   - [Code of Conduct](CODE_OF_CONDUCT.md)
   - [Contributing](CONTRIBUTING.md)
@@ -88,6 +90,7 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - [Security Policy](#security-policy)
 - [Governance](#governance)
 - [Issue Templates](#issue-templates)
+- [Pull Request Template](#pull-request-template)
 - [Support](#support)
 
 [CI and CD](#ci-and-cd)
@@ -486,6 +489,19 @@ making it easier to understand and address their concerns effectively.
 - **Open Source Checklist (This Project)**: [GitHub issue templates](https://github.com/libresource/open-source-checklist/tree/main/.github/ISSUE_TEMPLATE)
 - **FindSimilar**: [GitHub issue templates](https://github.com/findsimilar/find-similar/tree/main/.github/ISSUE_TEMPLATE)
 - **Django Dry Tests**: [GitHub issue templates](https://github.com/quillcraftsman/django-dry-tests/tree/main/.github/ISSUE_TEMPLATE)
+
+## Pull Request Template
+
+### Description
+
+Pull request templates are predefined formats for creating new pull request in a GitHub repository. 
+When you add a pull request template to your repository, 
+project contributors will automatically see the template's contents in the pull request body.
+
+### Examples:
+
+- **Open Source Checklist (This Project)**: [Pull Request Template](https://github.com/libresource/open-source-checklist/tree/main/.github/PULL_REQUEST_TEMPLATE.md)
+- **SciPy**: [Pull Request Template](https://github.com/scipy/scipy/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 ## Support
 
