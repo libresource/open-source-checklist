@@ -61,6 +61,7 @@ To use checklist:
   - [Governance](GOVERNANCE.md)
   - [Security Policy](SECURITY.md)
   - [Support](SUPPORT.md)
+  - [Funding](.github/FUNDING.yml)
 
 Be free to fork this repository, change the checklist or any another file. Just enjoy yourself.
 
