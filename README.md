@@ -515,7 +515,7 @@ positive impact.
 ### Examples:
 
 - **Open Source Checklist (This Project)**: [SUPPORT.md](SUPPORT.md), [FUNDING.yml](.github/FUNDING.yml)
-- **FindSimilar**: [SUPPORT.md](https://github.com/findsimilar/find-similar/blob/main/SUPPORT.md), [SUPPORT.md](https://github.com/findsimilar/find-similar/blob/main/.github/FUNDING.yml)
+- **FindSimilar**: [SUPPORT.md](https://github.com/findsimilar/find-similar/blob/main/SUPPORT.md), [FUNDING.yml](https://github.com/findsimilar/find-similar/blob/main/.github/FUNDING.yml)
 - **Django Dry Tests**: [SUPPORT.md](https://github.com/quillcraftsman/django-dry-tests/blob/main/SUPPORT.md)
 
 # CI and CD
