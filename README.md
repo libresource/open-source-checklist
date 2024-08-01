@@ -49,6 +49,7 @@ To use checklist:
 - [ ] Build
 - [ ] Deploy
 - [ ] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)
+- [ ] [Pull Request Size Labeler](https://github.com/libresource/open-source-checklist#pull-request-size-labeler)
 ~~~
 
 - Copy raw code [here](https://github.com/libresource/open-source-checklist/blob/main/CHECKLIST.md?plain=1)
@@ -102,6 +103,7 @@ Be free to fork this repository, change the checklist or any another file. Just 
 - Build
 - Deploy
 - [New User Greetings](#new-user-greetings)
+- [Pull Request Size Labeler](#pull-request-size-labeler)
 
 # Main points
 
@@ -540,3 +542,15 @@ this procedure:
 - **Open Source Checklist (This Project)**: [greetings.yml](.github/workflows/greetings.yml)
 - **Lavacactus**: [greetings.yml](https://github.com/quillcraftsman/lavacactus/blob/master/.github/workflows/greetings.yml)
 - **Django Dry Tests**: [greetings.yml](https://github.com/quillcraftsman/django-dry-tests/blob/main/.github/workflows/greetings.yml)
+
+## Pull Request Size Labeler
+
+Big pull requests isn't good. There is the research about this case. 
+In this research 400 line max pull request size was recommended. 
+
+To check pull request size we can use `GitHub action`. For example:
+[Pull Request Size Labeler](https://github.com/marketplace/actions/pull-request-size-labeler)
+
+### Examples:
+
+- **Open Source Checklist (This Project)**: [labeler.yml](.github/workflows/labeler.yml)
