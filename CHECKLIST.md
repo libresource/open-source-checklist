@@ -37,3 +37,4 @@
 - [ ] Build
 - [ ] Deploy
 - [ ] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)
+- [ ] [Pull Request Size Labeler](https://github.com/libresource/open-source-checklist#pull-request-size-labeler)
